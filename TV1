@@ -814,13 +814,13 @@ https://cdn-5.nxplay.com.br/DISCOVERY_THEATER_NX/index.m3u8
 #EXTINF:-1 tvg-id="Discovery World" tvg-logo="https://imgur.com/6sTkahx.png" group-title="Variedades",Discovery World
 https://cdn-5.nxplay.com.br/DISCOVERY_WORLD_NX/index.m3u8
 
-#EXTINF:-1 tvg-id="FoodNetwork"  tvg-logo="https://imgur.com/AH3uBDj.png" group-title="Variedades",Food Network
+#EXTINF:-1 tvg-id="FoodNetwork" tvg-logo="https://imgur.com/AH3uBDj.png" group-title="Variedades",Food Network
 https://cdn-5.nxplay.com.br/FOOD_NETWORK_NX/index.m3u8
 
 #EXTINF:-1 tvg-id="PIXTV" tvg-logo="https://i.imgur.com/jdd5Jsa.png" group-title="Variedades",PIX TV
 https://cdn-5.nxplay.com.br/PIX_TV/index.m3u8
 
-#EXTINF:-1 tvg-id="catoonnetwork.br"  tvg-logo="https://imgur.com/dlTmblr.png" group-title="Filmes & Series",Cartoon Network
+#EXTINF:-1 tvg-id="catoonnetwork.br" tvg-logo="https://imgur.com/dlTmblr.png" group-title="Filmes & Series",Cartoon Network
 https://cdn-5.nxplay.com.br/CARTOON_NETWORK_TK/index.m3u8
 
 #EXTINF:-1 tvg-id="tnt.br" tvg-logo="https://img.ip2.digital/tnt.png" group-title="Filmes & Series",TNT
@@ -829,10 +829,10 @@ https://cdn-5.nxplay.com.br/TNT_TK/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Esportes",ESPN 
 https://cdn-5.nxplay.com.br/ESPN/tracks-v1a1/mono.m3u8 
 
-#EXTINF:-1 tvg-id="ESPN 2" tvg- logo="https://i.imgur.com/ZAHnoPh.png" group-title="Esportes",ESPN 2
+#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="Esportes",ESPN 2
 https://cdn-5.nxplay.com.br/ESPN_2/tracks-v1a1/mono.m3u8 
 
-#EXTINF:-1 tvg-id="ESPN 3" tvg-logo= "https://imgur.com/VCPTlBD.png" group-title="Esportes",ESPN 3
+#EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://imgur.com/VCPTlBD.png" group-title="Esportes",ESPN 3
 https://cdn-5.nxplay.com.br/ESPN_3/tracks-v1a1/mono.m3u8 
 
 #EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://imgur.com/ErWFVO3.png" group-title="Esportes",ESPN 4
