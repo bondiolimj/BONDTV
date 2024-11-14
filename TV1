@@ -1,0 +1,853 @@
+#EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/brazil.xml,https://www.bevy.be/bevyfiles/portugal.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml,https://raw.githubusercontent.com/helenfernanda/gratis/main/distrotv.xml,https://www.bevy.be/bevyfiles/mexicopremium.xml"
+
+
+
+
+#EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP" tvg-logo="https://imgur.com/waZJG1M.png" group-title="TVRO: Nacionais",Globo
+https://cdn-5.nxplay.com.br/GLOBO_SP_TK/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rede-globo-logopedia/images/4/4b/Vanguarda_2003.png/revision/latest?cb=20220812084051" group-title="TVRO: Regionais",TV Vanguarda
+http://15.235.15.230:14512/
+
+#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-logo="https://imgur.com/Wu4ykxo.png" group-title="Noticias",Globo News
+https://stream1.freetv.fun/globo-news-2.m3u8
+
+#EXTINF:-1 tvg-id="sbt.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcVYPc-pELbp8t_0EhGtRFsSj1gXPMQWJgwA&s" group-title="TVRO: Nacionais",SBT
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bandeirantes-band-logo-56FE915446-seeklogo.com.png" group-title="TVRO: Nacionais",Band
+https://cdn-5.nxplay.com.br/BAND_HD_PFZ_NX/tracks-v2a1/mono.m3u8?ManoTV
+
+#EXTINF:-1 tvg-id="BANDNEWS" tvg-logo="https://imgur.com/jCZzNjF.png" group-title="Noticias",Band News
+https://cdn-5.nxplay.com.br/BAND_NEWS_TK/tracks-v2a1/mono.m3u8?ManoTV
+
+#EXTINF:-1 tvg-id="newbrasi.br" tvg-logo="https://imgur.com/vSKVrvH.png" group-title="TVRO: Nacionais",New Brasil
+https://cc-7pakstinpyajo.akamaized.net/playlist720lp.m3u8
+
+#EXTINF:-1 tvg-id="BAND SPORTS" tvg-logo="https://i.imgur.com/LSZ5VKi.png" group-title="Esportes",Band Sports
+https://stream1.freetv.fun/band-sports-3.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/041a53eb1b2c6c9d65151c102342544b.webp" group-title="TVRO: Nacionais",TV Brasil
+https://tvbrasil-stream.ebc.com.br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/0e/Logotipo_da_Record_%28rede_de_televis%C3%A3o%29.png" group-title="TVRO: Nacionais",Record
+https://cdn-5.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/86600ed6f09e4bf48be4e55a0cd01536.webp" group-title="TVRO: Nacionais",Record News
+https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/RBTV23.png" group-title="TVRO: Nacionais",Rede Brasil
+https://video01.logicahost.com.br/redebrasil02/redebrasil02/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://alemdatela.com/wp-content/uploads/2021/04/RBTV-1.jpg" group-title="TVRO: Nacionais",RBTV
+http://brsupertv.brsuper.com.br:9080/hls/brsupertv.m3u8?ManoTV
+
+#EXTINF:-1 tvg-id="RedeMinas.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/96ed4934fbcf5351314bfabfd78a976c.webp" group-title="TVRO: Regionais",Rede Minas
+https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/logo_istv_png_shjUMVl.png" group-title="TVRO: Nacionais",ISTV
+https://video08.logicahost.com.br/istvnacional/srt.stream/istvnacional.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/d6a520da03967f5de06a99893a65ab99.webp" group-title="TVRO: Nacionais",TV União
+https://live.uniaoplus.com/hls/0gmf9QNc7bQ6V0Lu.m3u8
+
+#EXTINF:-1 tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/logo_100x100_pr.png" group-title="TVRO: Nacionais",NGT
+https://isaocorp.cloudecast.com/ngt/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/RFTV_logo_2023.png" group-title="TVRO: Nacionais",RFTV
+https://tv01.zas.media:1936/rftv/rftv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/7aa4d69d868651e45190d52845387434.webp" group-title="TVRO: Nacionais",TV Aparecida
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AFDTV" tvg-name="TVGAZETA"  tvg-logo="https://play-lh.googleusercontent.com/UGXTMajQzEpLMZgCM02kEA6b3q_UZjQXJWdFMhPwmUcpN77tyS5dPv2MRIy6IVmMEw" group-title="TVRO: Nacionais",TV Gazeta
+https://video08.logicahost.com.br/tvc21/tvc21/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/85e5f6b6aa459a384730e3b520e1e728.webp" group-title="TVRO: Nacionais",Rede Vida
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/17/Logotipo_da_TV_Meio.png" group-title="TVRO: Nacionais",TV Meio
+https://br5093.streamingdevideo.com.br/jztykfkpnu/jztykfkpnu/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVPAIETERNO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7c/Logotipo_TV_Pai_Eterno.png" group-title="TVRO: Nacionais",TV Pai Eterno
+https://58c8a6b3c74e2.streamlock.net:1936/tvci/tvci/playlist.m3u8
+
+#EXTINF:-1 tvg-id="REDESÉCULO21" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScVI0J7JDzJ-5aIPpwlxpWvvNEzcS52yQvAA&s" group-title="TVRO: Nacionais",Rede Século 21
+https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CANÇÃONOVA"  tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png" group-title="TVRO: Nacionais",TV Canção Nova
+https://cdn2.easy.tv.br/cancaonova/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVEVANGELIZAR"  tvg-logo="https://pbs.twimg.com/profile_images/1479075914386448392/64k6l2LR_400x400.jpg" group-title="TVRO: Nacionais",TV Evangelizar
+https://tvevangelizar.brasilstream.com.br/hls/tvevangelizar/index.m3u8
+
+#EXTINF:-1  tvg-id="Canal do Boi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa_irUvPV78q69PIudjKibqrPmYyHvguojwxdj10chMQ&s" group-title="TVRO: Agro",Canal do Boi
+https://aovivo3.equipea.com.br:5443/aovivort/streams/7JqTuqkq5OwZ89cw1724977438534.m3u8
+
+#EXTINF:-1 tvg-id="Canal Rural" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/2823b58a4365d7cb2d69616fb0ca06bc.webp" group-title="TVRO: Agro",Canal Rural
+https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RIT.br" tvg-logo="https://imgur.com/psyk2C5.png" group-title="TVRO: Nacionais",RIT
+https://cdn-5.nxplay.com.br/RIT_TV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/Logotipo_100x100_2Ofmxdy.png" group-title="TVRO: Nacionais",Rede Mais Família
+https://video09.logicahost.com.br/redefamilia/redefamilia/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="Tvdiario.br" tvg-logo="http://storage4you.net:2095/logoscanais/TVDIARIO.png" group-title="TVRO: Regionais",TV Diário
+http://mototrilhajp.net:80/999656649/523126/170
+
+#EXTINF:-1 tvg-id="Tvacritica.br" ttvg-logo="https://miro.medium.com/v2/resize:fit:1400/1*XB1B9pmScDpwUsH_hqdbpw.jpeg" group-title="TVRO: Nacionais",TV A Crítica
+http://mototrilhajp.net:80/999656649/523126/364780
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Top_TV_logo.svg/800px-Top_TV_logo.svg.png" group-title="TVRO: Nacionais",Top TV
+https://isaocorp.cloudecast.com/toptv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ce8f621678e717cabf4a5e8ee0f6ed70.webp" group-title="TVRO: Regionais",RTN (TV A Crítica SP)
+https://tv01.zas.media:1936/rtntv/rtntv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/65d9059a562708573579342225f53e0b.webp" group-title="TVRO: Regionais",TV Pampa (Rede TV RS)
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/eab8e4fcefd5980ba7e4aaf007da267d.webp" group-title="TVRO: Regionais",Amazon Sat
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xnBg83J.png" group-title="TVRO: Nacionais",Astral TV
+https://isaocorp.cloudecast.com/astraltv/index.m3u8
+
+#EXTINF:-1 tvg-type="stream" tvg-id="-1" tvg-logo="https://tvmaispet.com.br/wp-content/uploads/2024/04/tv-mais-pet-com-sombra.png" group-title="TVRO: Nacionais",TV +Pet
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://tvmaispet.com.br/
+https://isaocorp.cloudecast.com/tvmaispet/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/7c62d247363cc8e7978ecced6639393b.webp" group-title="TVRO: Regionais",TV Thathi
+https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/74a615920288577b11ec8ae78badf28b.webp" group-title="TVRO: Regionais",Rede UTV Brasil
+https://utvsite.acessaradios.com.br/utvsite/utvsite.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e414ab0d872ac5b8150c68992800059f.webp" group-title="TVRO: Regionais",Rede América
+https://stmv5.samcast.com.br/claudio6986/claudio6986/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/84998832d7465ef731fc0e141e6c5efa.webp" group-title="TVRO: Regionais",Central TV
+https://tv01.zas.media:1936/centraltvweb/centraltvweb/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/5f76c31bdfdfc45a625eabc1f6dd9249.webp" group-title="TVRO: Regionais",TV Padre Cícero
+https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/5aaaf81af069b1b3a7639fc85b0023be.webp" group-title="TVRO: Regionais",TV Cidade Verde (MT)
+https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/689f8e1fbf539be1c6e2a36b9283b324.webp" group-title="TVRO: Regionais",Santa Cecília TV
+https://60d88f8ce1206.streamlock.net/2063/2063/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/9b4759_2455541c839e4dc6972ff9234d2ef2bf~mv2.png/v1/fill/w_682,h_304,al_c,lg_1,q_85,enc_auto/9b4759_2455541c839e4dc6972ff9234d2ef2bf~mv2.png" group-title="TVRO: Nacionais",Vivax TV
+https://stmv2.samcast.com.br/marcus8647/marcus8647/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e7b59f96b727d43a604c251ee93df7d6.webp" group-title="TVRO: Regionais",Masper TV
+https://stream.castr.com/62572b254fcac2c0e67c3ac5/live_3815ed7055fe11ef95f9a97142a4bd4f/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e46426d3885b05824dc7c8ca1ec92d19.webp" group-title="TVRO: Nacionais",BR8 TV
+https://cdn.live.br1.jmvstream.com/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SulBA.br" tvg-logo="https://i.imgur.com/ScGRWhq.png" group-title="TVRO: Regionais",TV SulBA
+https://video05.logicahost.com.br/tvsulba/tvsulba/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/af/Logotipo_da_TV_Brasil_Oeste.png" group-title="TVRO: Regionais",TBO (Rede Brasil MT)
+https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1dad8510439a1c4f9a4caada998b7f5d.webp" group-title="TVRO: Regionais",Master TV (TV UNIVESP)
+https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AFDTV" tvg-name="TVEBAHIA"  tvg-logo="https://irdeb.ba.gov.br/imgs/institucional/2022/04/VFlnPMehljM6oLg70FEK0Lmtagjty2scfPH3Eonx.png" group-title="TVRO: Regionais",TVE Bahia
+http://rtmp.irdeb.ba.gov.br/stream/hls/tvehd.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tve.com.br/themes/padrao2019/images/logos/logo.png" group-title="TVRO: Regionais",TVE RS
+http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/da8fecf959f730dd05d649b46fa80298.webp" group-title="TVRO: Regionais",TV Nova (Cultura PE)
+https://acesso.ecast.site:3675/live/novatvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ac86ed7edabf2d886a3b8430b4f13c91.webp" group-title="TVRO: Regionais",CATVE (Cultura Cascavel PR)
+https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tbxAkds.png" group-title="TVRO: Regionais",TV Brasil Central (Cultura MT)
+https://tbc.zoeweb.tv:443/tbc/tbc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.40graustv.com.br/wp-content/uploads/2017/02/logo-circular.png" group-title="TVRO: Regionais",40 Graus TV (Gazeta BA)
+https://acesso.ecast.site:3125/stream/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e6d3c0b09c4da55520dde4ad36c1c3b5.webp" group-title="TVRO: Regionais",TVOne
+https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/db75868f6c7bb4fd8ffd8e2434a85a98.webp" group-title="TVRO: Nacionais",Rede Mundo TV
+https://5cf4a2c2512a2.streamlock.net/mundotv/mundotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/db75868f6c7bb4fd8ffd8e2434a85a98.webp" group-title="TVRO: Regionais",Rede Mundo TV (Rede Brasil)
+https://ott.virtual.tv.br/REDEMUNDO/tracks-v1/index.fmp4.m3u8?token=CXTV00225HR3HD7HHR
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/6b1c315f362d5cbb750ae5b291a4b48b.webp" group-title="TVRO: Regionais",TV Marajoara
+https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/2e458318cc2e59266b35a20a154990f0.webp" group-title="TVRO: Regionais",PUC TV (TV Aparecida GO) 
+https://stmv5.samcast.com.br/puctvgoias/puctvgoias/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mUert3QLUl0zMz_zzpFhQ_LyFu8DrFeWuqj0MCMRV3og=s900-c-k-c0x00ffffff-no-rj" group-title="TVRO: Regionais",Líder TV (TV Meio MG)
+https://video08.logicahost.com.br/lidertvssp/lidertvssp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvgraopara.com.br/wp-content/uploads/2018/11/loggazeta.png" group-title="TVRO: Regionais",TV Grão Pará (Gazeta PA)
+https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pa-str.srvsite.com/arquivos/4172/cabecalho-4172-20230519171653.png" group-title="TVRO: Regionais",TV Sul
+https://5a0c3936c25c8.streamlock.net:443/8032/8032/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/duy6waL.png" group-title="TVRO: GOV",TV Senado
+https://cdn-5.nxplay.com.br/TV_SENADO/tracks-v1a1/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sURDHLY.png" group-title="TVRO: GOV",TV Justiça
+https://cdn-5.nxplay.com.br/TV_JUSTICA/tracks-v2a1/index.m3u8
+
+#EXTINF:-1 tvg-id="CanalGov" tvg-logo="https://imgur.com/9KwUxmX.png" group-title="TVRO: GOV",Canal GOV
+https://canalgov-stream.ebc.com.br/index.m3u8
+
+#EXTINF:-1 tvg-id="CanalEducação" tvg-logo="https://yt3.googleusercontent.com/BTiekNc_yXq-XKZ7PQsNd7xBTpydw8-nyS_ONaV9MGpgR_GuTEzBG51HS-Knax1xYZ-6pJKr=s160-c-k-c0x00ffffff-no-rj" group-title="TVRO: GOV",Canal Educação
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64;rv:60.0)Gecko/20100101 Firefox/67.0
+#EXTVLCOPT:http-referrer=https://www.gov.br/mec/pt-br/centrais-de-conteudo/canal-educacao/videos/transmissao-ao-vivo-canal-educacao
+https://canaleducacao-stream.ebc.com.br/chunks.m3u8
+
+#EXTINF:-1 tvg-id="CanalLibras" tvg-logo="https://www.gov.br/mec/pt-br/canal-libras/canal-libras-pagina-inicial/@@govbr.institucional.banner/dd7e1b05-7bbe-4766-a771-c1c074c136d3/@@images/f4c5216a-d08c-4ede-a7f9-ed0cb522538e.jpeg" group-title="TVRO: GOV",Canal Libras
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64;rv:60.0)Gecko/20100101 Firefox/67.0
+#EXTVLCOPT:http-referrer=https://www.gov.br/mec/pt-br/canal-libras
+https://canallibras-stream.ebc.com.br/chunks.m3u8
+
+#EXTINF:-1 tvg-id="CANALSAUDE" tvg-logo="https://www.canalsaude.fiocruz.br/tools/images/logo30anos/30-vers%C3%A3o-horizontal-web.png" group-title="TVRO: GOV",Canal Saúde
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64;rv:60.0)Gecko/20100101 Firefox/67.0
+#EXTVLCOPT:http-referrer=https://www.canalsaude.fiocruz.br/canal/aoVivo,https://eduplay.rnp.br
+https://cdn.eduplay.rnp.br/route/CFwapWdsWCYQ/index.m3u8?s=aHR0cHM6Ly9tZWRpYS5lZHVwbGF5LnJucC5ici9tZWRpYS9DRndhcFdkc1dDWVEvaW5kZXgubTN1OD94PTEmbT0tOV9icElwMl9ySFA4V0dnUERBRFRn&x=1&p=10&m=Ax0DMnlL_LQ2dCZxB-vaTQ
+
+
+#EXTINF:-1 tvg-logo="https://tvgazin.com.br/wp-content/uploads/2023/04/logo-tv-gazin.png" group-title="TVRO: Web",TV Gazin
+https://caikron.com.br:19360/floripa/canal1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f97c5Fk.png" group-title="TVRO: Web",Vila TV
+https://streamserver.streamingdevideo.com.br/8072/8072/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FpLO71B.png" group-title="TVRO: Web",TV Chroma
+https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nxPLh1GhO3gsGjH-xJaK4tQv8CNdKITjThleR0y7zY3_iJ=s900-c-k-c0x00ffffff-no-rj" group-title="TVRO: Web",TV NBN
+https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/31/9d/a5/319da504-47b4-ce4b-f6d8-17cbc8e10a6c/source/512x512bb.jpg" group-title="TVRO: Web",Imperial TV
+https://acesso.ecast.site:3630/live/imperiallive.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/92/Logotipo_da_TV_Metr%C3%B3pole.png" group-title="TVRO: Web",TV Metrópole (CE)
+https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVCidadeCanal9.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i0.wp.com/tvcidadecanal9.com.br/wp-content/uploads/2021/04/cropped-cropped-cropped-TV_Cidade-_1_png-vale-este-e1619050968742-2.png?fit=512%2C512&ssl=1" group-title="TVRO: Web",TV Cidade (RJ)
+https://59f1cbe63db89.streamlock.net:1443/tvcidade/tvcidade/playlist.m3u8
+
+#EXTINF:-1 tvg-id="UnisulTV.br" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/1d/23/be/1d23be9f-3f70-d6a9-04dc-19305de53faa/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.webp" group-title="TVRO: Web",UNITV SC
+https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvpantanalms.com.br/wp-content/uploads/elementor/thumbs/logo_menor-qn90vhk6eujpy4tg6uhaljhie0azq2swir4unijri8.png" group-title="TVRO: Web",TV Pantanal MS
+https://59d39900ebfb8.streamlock.net:443/tvpantanalms/tvpantanalms/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AFDTV" tvg-name="POLISHOPTV"  tvg-logo="https://i.pinimg.com/originals/18/c4/5a/18c45a68fdf21f99e5af7bc1aefcf0a8.png" group-title="TVRO: Web",Polishop
+https://ythls.armelin.one/channel/UCbLV6ka_ajSvNb_UvCUpl_g.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ac3d67f34a8b258c1f53c88042a9feda.webp" group-title="TVRO: Web",Eco TV ABC
+https://5b7f3c45ab7c2.streamlock.net/ecotvabc/ecotvabc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ad61476e5c6bb78d3f6893528d82ee40.webp" group-title="TVRO: Web",TV Litoral (RN)
+https://video07.logicahost.com.br/tvlitoralrn01/tvlitoralrn01/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb0p2hx27cjQt5v5hWJgUTsYu73sob7OHldjNndRVe7g&s" group-title="TVRO: Web",TV Agora Limeira
+https://video05.logicahost.com.br/eveontv/eveontv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Ilw2KNp.png" group-title="TVRO: Web", TV PBC
+https://stmv2.samcast.com.br/adao6116/adao6116/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SY31PgU.png" group-title="Esportes",GE Fast
+https://cc-huzqc47g60md7.akamaized.net/Globo/GE_Fast_BR/GE_Fast.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/8bOLuMxNwuWDpxX5T_ByHQzR-aoa4hn8qDIRBvYNSlM26HPMQkyg2KbuJzlge_yfo0yZtgEGpQ=s900-c-k-c0x00ffffff-no-rj" group-title="Esportes",Woohoo Surf
+https://live01.woohoo.cportal.com.br/WhFAST/HLS/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Caz%C3%A9TV.png" group-title="Esportes",CazéTV
+https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/Caze_TV.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/6fU9ulW.png" group-title="Esportes",Esportes Brasília 
+https://a.cdni.live/radioesporte/radioesporte/chunklist_w1002148111.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nk19QkO.png" group-title="Esportes",National Sports Channel
+https://cdn-5.nxplay.com.br/PLAYOUT_02_NSC/tracks-v2a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e0ff78240cc23f1868ce2a008a92c58d.webp" group-title="Esportes",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f2a67a0c02ab0841afbdd8e7623aeae5.webp" group-title="Esportes",Motorvision
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=758
+
+#EXTINF: -1 tvg-logo="https://camo.githubusercontent.com/86060b429f69c5273e051d0b0d0da045bb61c77b4fa11b0f474f8502bc080b59/68747470733a2f2f692e696d6775722e636f6d2f34497a565351492e706e67" group-title="Esportes",Bike Channel (IT)
+https://cdn02.argocdn.net/argocdn/bikechannel/video.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN BRASIL" tvg-logo="https://imgur.com/4dfmnBs.png" group-title="Noticias",CNN Brasil
+https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/JfZh8pI.png" group-title="Noticias",Jovem Pan News
+https://amg01391-addigital-jovempan-distrotv-tvd2e.amagi.tv/playlist/amg01391-addigital-jovempan-distrotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/fee4bcbe6932805a9862a46b1773a0c1.webp" group-title="Noticias",Euronews PT
+https://euronews-euronews-portugues-1-us.plex.wurl.tv/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c3b63747c2a7653bbc391d3fa24fcb5c.webp" group-title="Turfe",Jockey Maroñas (URU)
+https://live.codereuruguay.edge2befaster.io/codereuruguay/maronas1/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f457ddce2f999c3f4b595e0966bd7f94.webp" group-title="Turfe",Teletrak (CHI)
+https://teletraktv.janus.cl/playlist/stream.m3u8?s=lq&t=1699756660&id=louvd0p9&q=2&d=w
+
+
+
+
+#EXTINF:-1 tvg-id="Futura.br" tvg-logo="http://www.rochagalaxia.live/logos/FUTURA.png" group-title="Variedades",Futura
+http://altv1.top:80/Tourobox1-HoQk9LaQ9c/LlHLFQ2BEm/234908.ts
+
+
+ 
+
+#EXTINF:-1 tvg-logo="https://imgur.com/dC2p8J1.png" group-title="Variedades",Canal UOL
+https://d19fe0yjxkxylf.cloudfront.net/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://combrasiltv.com.br/wp-content/uploads/2022/04/Sem-Titulo-2.png" group-title="Variedades",Com Brasil
+https://br5093.streamingdevideo.com.br/abc/abc/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://zucaplay.com/wp-content/uploads/2022/10/1660240073.8929761.png" group-title="Variedades",Life Channel Brasil
+https://cdn.g2gsistemas.com.br/life/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/DiaTV_Nova.png" group-title="Variedades", DiaTV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/662156805a31f70013dba21c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e0830b63fdd557dcf3f8c22cc3010017.webp" group-title="Variedades",Cultne TV
+https://edge-fast3.evrideo.tv/231ed5ca-94a1-466e-94fd-4cf831fcdd2f_1000027150_HLS/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://nxplay-images.comets.com.br/resize/66a28f6690bfa_58dc049432cb722d2be98124928deeb2.png" group-title="Variedades",Sabor e Arte 2
+https://cdn-5.nxplay.com.br/SABOR_E_ARTE_2/tracks-v2a1/mono.m3u8?token=8651299c8cd14c49b8f94ab7475abd497d8b5985-423143b7bc9efa33814fb1392416657d-1731305419-1731262219
+
+#EXTINF:-1 tvg-logo="https://imgur.com/X8bDYyO.png" group-title="Variedades",Receitas Fast
+https://cc-panvcqnzkgrdl.akamaized.net/Globo/Receitas_Fast_BR/Receitas_Fast.m3u8
+
+#EXTINF:-1 tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/QTAL_channel_logo_REDUZIDO_ndWFcTU.png" group-title="Variedades",QTAL? Channel
+https://video03.logicahost.com.br/qtalchannel01/qtalchannel01/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCYW1R8sN2NafFNZjQN0Juw2FbKBUQsCaX4rs3Hz77-Ig0JXzrwQPjC8g&usqp=CAE&s" group-title="Variedades",UMISS TV
+https://video01.soultv.com.br/umiss/umiss/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB_5QrtYG9SxUgcJYgzZ_yUNxuDEZPhAnrd0zNEiPsqw&s" group-title="Variedades",Fashion TV
+https://fashiontv-fashiontv-5-br.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Fish.TV.br" tvg-logo="https://i.imgur.com/Vqfxiyz.png" group-title="Variedades",Fish TV
+https://cdn-5.nxplay.com.br/FISH_TV_NX_TK/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BWfmUwV.png" group-title="Variedades",People Are Awesome
+https://jukin-peopleareawesome-2-br.samsung.wurl.tv/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="SESCTV.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c468b9d992576228b761c5b5b3af3724.webp" group-title="Docs",Sesc TV
+https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/b0601c5cba87e912a4e37e8b68c1499b/video/3ddc38be-7935-4d7d-ad0c-2da72c1d5613_index1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/72dfb2cbf8642b7bdac713efc416b5b6.webp" group-title="Docs",Curta!
+https://video01.logicahost.com.br/canalcurta/canalcurta/index.m3u8
+
+#EXTINF:-1 tvg-id="SpaceTodayTV.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjJpC6CV1lN-iQSmx1svWnC6NFnOrKsXyMmg&s" group-title="Docs",Space Today TV
+https://service.webvideocore.net/CL1olYogIrDWvwqiIKK7eHbBxDyYany25g-L4QOVH5_l5daXY9tfEZPDJS0YHgpW/a_50acwl5q0f0g.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QwPiPlI.png" group-title="Docs",Rakuten Documentaries
+https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8?ManoTV
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFumnVMWTF4e9vDcqdfmD4uogYP17pdc_oiA&s" group-title="Docs",Eartho TV
+https://dr2t9f8nivbc6.cloudfront.net/hls/S4LUUBA/8D21D7D8678D/m.m3u8
+
+#EXTINF: -1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/7ab9a956d38f2361c92545120dee2a95.webp" group-title="Docs",RT Documentary
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/91755f051c2778068efc2728f71989d6.webp" group-title="Docs",Milennio TV
+https://videostream.shockmedia.com.ar:19360/milenniotv/milenniotv.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://cdn.telaviva.com.br/wp-content/uploads/2021/07/cinebrasil-tv.png" group-title="Filmes & Series",Cine Brasil TV
+https://cdn-5.nxplay.com.br/Cinebrasil/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/redeitv.com.br/wp-content/uploads/jet-engine-forms/1952/2024/06/TELA-BRASIL-TV.jpg" group-title="Filmes & Series",Tela Brasil TV
+https://stmv3.webtvninjas.com.br/mailson6054/mailson6054/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/c66e37_0f797d04905943e8b0864e75407d4a43~mv2.png/v1/crop/x_0,y_30,w_1066,h_331/fill/w_510,h_156,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/reviva%20oficial.png" group-title="Filmes & Series",Reviva TV
+https://stmv3.webtvninjas.com.br/webtvni1/webtvni1/chunklist_w1971448394.m3u8
+
+#EXTINF:-1 tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/LOGO-REPUBLIC-BRANCO-100x100_2.png" group-title="Variedades",Republic 
+https://video01.soultv.com.br/republic/republic/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QwPiPlI.png" group-title="Filmes & Series",Rakuten Family
+https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXVuaDi-rHGLLz1QJ15ZbnDXdZodRrSKM8Kg&s" group-title="Filmes & Series",Darkflix
+https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/RnXnExw.png" group-title="Retrô",Grjngo
+http://d1ve86tcjfn74e.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2112f7942be7a7bf3f4b41e082cee2b8.webp" group-title="Filmes & Series",Moviesphere
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6178
+
+#EXTINF:-1 tvg-logo="https://imgur.com/9lqxeLR.png" group-title="Filmes & Series",Dark Matter
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_darkmatter_002.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/9xo2bJt.png" group-title="Retrô",Sony One Classics
+https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/LOGO.png" group-title="Filmes & Series",Cinemonde
+https://video01.soultv.com.br/cinemonde/cinemonde/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/0e6b2a8234bf98dd9e50342cbe7631f9.webp" group-title="Filmes & Series",ABC Brasil
+https://5cf4a2c2512a2.streamlock.net/8256/8256/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2HHqJIDVGczEUtEANGtsffmCQgpWiiq7MwA&s" group-title="Filmes & Series",Bowery Classics
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bowery-classics/7ba66d28-898d-4c22-a3fe-53f80f0be25d/0.m3u8
+
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-61d738b5a7b7c7f703418514" tvg-logo="https://provider-static.plex.tv/epg/cms/production/77650263-e1b2-41d0-b8e3-6c877f518397/tfh.png" group-title="Retrô",Trailers From Hell
+https://558967c5c32141fe8f01c37d315e43a3.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_TrailersFromHell/playlist.m3u8?ads.wurl_channel=1048&ads.wurl_name=TrailersFromHell&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=y_HMAMzw1oNcdLetH1FS&ads.plex_id=61d738b5a7b7c7f703418514&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22759/lone-star/logo_20231219_215208_70.png" group-title="Retrô",Lone Star
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/lone-star/f5fac37e-ed4a-4611-9b3d-87186ddd8b47/3.m3u8
+
+#EXTINF:-1 tvg-logo="https://glewed.tv/wp-content/uploads/2023/07/glewed-logo_orange-2500copy-300x177.png" group-title="Retrô",GlewedTV The Vault
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/glewedtv-the-vault/9111d633-51e5-43b8-81e0-1201fe0ec292/2.m3u8
+
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/aca5fb4a-3f31-4527-82d4-80b718821f1f/ShemarooBollywood_logo_dark_-_Shemaroo_USArdx.png" group-title="Filmes & Series",Shemaroo Bollywood
+https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-62d1a58e520656fda09e609d/variant.m3u8?x-plex-token=oEeGQeMBoQohKyKaBx9a&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-session-id=&x-plex-playback-session-id=&x-plex-playback-id=&x-plex-provider-streaming-start=1730664275&url=0d727b4f12555eb08ac26bd972f76ab5-c6e2090f7b5938985d10b8a40060f11be21e923728b39ce8a4ae05801a3170d064f8fe0786818321c95b1cf7ce24c047d3e923784df23381acf9de5f0188561abd5282ae02ac336331ede9a2a4c50ad18380d33ba2e4103826a5a45b6f90e6951aea9ea9f63c3ce5e5f6e4aed91ba9b6b3d7ac20e72e939ca83943bf72dc32abe1e0e88b93c8dbf5397b0c86248ca3db16c2d20ee64369fcad1842fde0addabe6574c1e9c788e7ab83231d5ab9d7cb74b489431eb1929b87b63c6709c97b2ce991e832daad523b67480ff97545697000d59972d8d71a8600f955ade7497021b0e3935fa1a37c3b59adc41232b031d2a99bcdd4f2c720561bf5a4385c9234fd55d187df41d911dc43b90b937a07b4d47d936f925f68568be6d1484c0a0f9cb42545a9a155f43b038aa0700bd5a2a454fb8536b1bd206906d59a2d0d68b6f00cc8d73f48b171ea48e16aca716b910d8d42707695795dc241239a2d6ddad4a3aa218ab14ddb1963e30c2d00bde15fec3fbfb0fe453afa3c45c2d548f505af3c5d007b76a8fc1e166574feb6325d6b44ac03119df0e062157572aa63e1e6a87d77a4049ecaf7d592f660d8ecdc3ec63c46727421de2d1277406433b6379830f0c192715f242b8764d944665bd927a794bdcce0e2f8c07290e3be4498920e5dfa01f03fba952ab2c98dbfb7427ee5358d1c19c82044ba43c9027fc66fb87ff1b4fac08f57c3efaaee06f8525d8b79efb84dda64ec70ecba0149ef56d7c06dfc4c46996f8f2b6b72fc7e68faef6f2e04365a7f97e504a3344688d51b00573de45ef9528e1f13c2ac0476f1b39f435ddc984c349fbb29f180f3c7eb12bfe872f65b50fc52e85e7f73819125958b664f24c964ca9125e1fbfd419e1a1b2f25982351288d201ae177f56531e9dcde68458bce62210e72dc485544fe7733324f089666e441ad94127dfa2b58dd5ec6ac93d916ad4819f60473f44b26e5473acd89f036dfdb70b996e05f5ca49af799a2032faf163ed448656f26b9d77ebe77dd6f17b3ad1c690203bd76020dbbaadbe4660b869c4ffd14b870bde6bd445654567e991ce0dda2a987012a2e0084a178b9b2e42922879b13f69f7fcd298b7a1f17f0cde5f53988cb1a084d5e65a596591054a02c6c2c5e34a29667956f49fdd6f0410622cfe52ea8042729dd7cafbaf28c4f833704465e07de1d36172ba5fdc179624abd9f9f5b7a5eb5433c490fb8c5f8a6594f09e48593fd776ace16f0728492ca5062dc5735aaa4059dc88ba2ddb2b1e684e61310efc7e10580da57beb0235b070f929115fba5223eae6880a1337653f129b19e7bd372533d2feb5715b6eada1a3854769d5171a1ff721e5f52d6dd3cf565a3aaa4de9ff2455cf73c1f2a3d735314c2a8cbc349057006ba59cddc8a2574fb74e7b9f9793a28a77ec00174d24195266d0b8e76304f170de7922f1eb1f457dcf0ce7f69883f1c071edf9d7a6b32a94df99380f8bf2c61f4bf313e23b488a08706b78642fb1f81d41e0e25d6e54713f06f671dc3b1813207b8407220de4cbdf2c611973df3304548e69df6a3342486e7890597fdc4a4a150e51e5b6e3822a40eae47b946d52e4861270c7b28c63af96496213e0e5d0f4ce10567f6e0571b8ed0117bbfcc62d991e5be557bf245a4c59580ff169fffaf32cb6b6ac19ed094ec9b9148a3e59171a29eb7e517aae9bd009a666158c55918866f55c7092c25b54bfc83bb1f4f2d52773d9a7b1bf25c6e19ddc6a2019d8e52da975da8c4f7162f3d95a474711f997e974afaacb5db0874178786835b4c65970c7539ea7b59980ca64f69a43d04c79050f3bffe05358403aa43a4f148da5ed03f52183727ee8aaa6b92b466bf58a92a4d03e7c0c089f8ab30ce121ee41cad7a58d293b17b0fdb1a49669426c418c52bb409bda4ce617c2f0f833018dcab35ef6ae38d6ee6abed231d6851059150eb8519492fa8b8f3c2a8cdb5d4c0766acb989c425f56f6a30f2a7077277244a00a1f25e40ef985df8250737709cb3fb7e1015aaf03c0a5b4fb689c339a33049e7250744f7b70523d89df065294d904a29bf48ccb5986e0b903a6dbba8820a9433d1519b0223d759f71d7489ccea562d6b8b04e40081a5864cb8273825bff625c9fef0268418dab3a902196a1dcf8684df867c8bce45b3b35d995e9f6073051979b0589c1c3a674e187ffc90b984b63f871f7769a72fe305c8b4d98de61fbc4d5b923fcaf4a9d77ea5e4531e0e9d047b4e15fd6b9c0e5067273229b07e9ea94b118a808399f0a5229b9df98c99869a2ef9e48d00693a714169c5dcf724ba702
+
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/79549FA0-4EBE-48C3-957F-037BA02E827F/3-1x1.png/900" group-title="Retrô",Horror Machine
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/horrormachine/287a0956-1c57-4b03-8ad0-fa2a66b9b141/0.m3u8
+
+#EXTINF:-1 tvg-logo="http://locomotiontv.com/imgs/loco/logo_white.png" group-title="Retrô",Locomotion
+http://51.222.85.85:81/hls/loco/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TRu90uI.png" group-title="Retrô",Tooncast
+https://cdn-5.nxplay.com.br/TOONCAST_TK/tracks-v2a1/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/14bb184c151e53c2210b218fff80f69e.webp" group-title="Retrô",Caravana Play
+https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f032a160e2b4cbb9de8f0080b845c9ca.webp" group-title="Retrô",Classique TV
+https://stmv1.srvif.com/classique/classique/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/2facd9de3a888b8015197f7e7adfb318.webp" group-title="Retrô",Classique TV Séries
+https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f032a160e2b4cbb9de8f0080b845c9ca.webp" group-title="Retrô",Classique TV Western
+https://stmv1.srvif.com/classiquew/classiquew/chunklist_w696892955.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a1e4076264abe6b6ccde87a587966abe.webp" group-title="Retrô",Retrô Cartoon
+https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
+
+#EXTINF:-1 tvg-logo="https://redeitv.com.br/wp-content/uploads/jet-engine-forms/145/2023/08/IMG-20221121-WA0020-e1692189600943.jpg" group-title="Retrô",Kids Mais
+https://video03.logicahost.com.br/novafamilia01/novafamilia01/chunklist_w1191580796.m3u8
+
+#EXTINF:-1 tvg-logo="https://redeitv.com.br/wp-content/uploads/jet-engine-forms/84/2023/09/Logo-Series-800X450-2.png" group-title="Retrô",Series Classic
+https://srv6.zcast.com.br/adriano8425/adriano8425/chunklist_w1423268919.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/862465d1835288b2ae6d11f27507a791.webp" group-title="Retrô",AW TV
+https://acesso.ecast.site:3070/live/awtvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/dcb3ff84b8f31ddc39ef213b42402f75.webp" group-title="Retrô",Canal 29
+https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1f46cc4e5dc24413f02ca28ab170fa77.webp" group-title="Retrô",1980 Channel
+https://stmv1.srvif.com/channel80s/channel80s/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/9X7XBlD.png" group-title="Infantis",Fox Kids
+https://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://redeitv.com.br/wp-content/uploads/jet-engine-forms/84/2024/07/Kanuca-TV-800x450-1.png" group-title="Infantis",Kanuca TV Brasil
+https://srv3.zcast.com.br/kanucatv/kanucatv/chunklist_w370470748.m3u8
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/fda6bf46d8fcf9418e718ea14bd792e6.webp" group-title="Música",Clubbing TV
+https://clubbingtv-samsungbrazil.amagi.tv/playlist720_p.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/5e81953f3dcc0f50204d3e3f44a31b52.webp" group-title="Música",Qwest TV
+https://plexaaaaa-qwest-jazz-plex-miu19.amagi.tv/playlist/plexAAAAA-qwest-jazz-plex/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/70b063c6f1930ef28f7eec6660e201f8.webp" group-title="Música",Qello Concerts
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=568
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/34b6cd484508db6e25bb987700ae8d36.webp" group-title="Música",Classic Arts Showcase
+https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m0l3XpbYRqQc9TuuxeQt95r3Rmftxsvy5viy2X7F-16Q=s160-c-k-c0x00ffffff-no-rj" group-title="Música", Balle Balle
+https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="AFDTV" tvg-name="VCLASSICTV"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihKYwP_L5c5rq0R_4pZSFYH3h51VcgeBIMR_tTc5bVqOVHFkZ8NGrA23-ujkqLTz202OoXFOe_mXjYET-Xm-AcJw0lpBBFfqnUWx64dLcil7B4KvS4FI33bnUxC8q422BsNxHrOWILK81s79FXM2Rn45qZMWRyBTzbjx7tvW4y7jrFuKbQ-d9tclNd1Lo/w200-h100/VCLASSIC%20TV.webp" group-title="Música",VClassic TV
+https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w271212718.m3u8
+
+#EXTINF:-1 tvg-id="RETRÔPLUS"  tvg-logo="https://www.retroplustv.com/gallery/LOGO%20RETRO%20PLUS%20582X198-ts1680109231.jpg?ts=1716064581" group-title="Retrô",Retro Plus
+https://scl.edge.grupoz.cl/retroplus16@grupoz.cl_retrolive/live/chunklist_w1397201610.m3u8
+
+#EXTINF:-1 tvg-id="powerhd" tvg-logo="https://www.radiopower.com.ar/powerhd/webroot/img/logoPwrHD_small.png" group-title="Música",Power
+http://wowza.telpin.com.ar:1936/live-powerTV/power.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8uXwaqs.jpeg" group-title="Música",Kiss TV
+https://isaocorp.cloudecast.com/kisstv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/67cebad8d46fc668e21b0ae8387ae2cd.webp" group-title="Música",Rock TV
+https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/74af38d618f9cfa2a49e2aef19317547.webp" group-title="Música",TV 538
+https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/89fde3072167c8eca735a5b9b6a0be59.webp" group-title="Música",Rockola Television
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/f1e41991-852e-4879-9352-73da780e9230/0.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/85f7dfdee045ef4fce8cd777b2d3574d.webp" group-title="Retrô",NOW 70s
+https://lightning-now70s-samsungnz.amagi.tv/playlist720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f2f3955f5568ccb7a50191500b090cbb.webp" group-title="Retrô",NOW 80s
+https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqn7c8Rq6aoXBdsQ9y8prBeUMIvjIXc826mC6SgIqwjM4VHPTzzIVZzV4&s" group-title="Retrô",NOW 90s
+https://lightning-now90s-samsungnz.amagi.tv/playlist720p.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://ju-sama.com.br/blog/wp-content/uploads/2023/03/Sato_41.png" group-title="Animes",Sato+
+https://sto-sat-samsung.otteravision.com/sto/sat/sat.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/gD0hmt2.png" group-title="Animes",Otaku Sign
+https://stmv1.srvif.com/otaku/otaku/chunklist_w776677652.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/168f0c2d7fb92988c1cb0f156fe390eb.webp" group-title="Animes",Play TV
+https://isaocorp.cloudecast.com/playtv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1d08352f33c92124373d9f3b0fcf2ef8.webp" group-title="Animes",Loading TV
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/38c67fdfc57a8a0087e02316d408473b.webp" group-title="Animes",Geekdot
+https://stream.ichibantv.com:3764/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/729/453/png-transparent-logo-animax-sony-spin-brand-axn-black-animax-television-blue-angle.png" group-title="Animes",Animax
+https://stream.ichibantv.com:3547/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8e2460502f204b225c89d644e88153a8.webp" group-title="Animes",Anime TV
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8306e8897f3941eb7c2ac7b583b92f71.webp" group-title="Geek",Start
+https://stmv1.srvif.com/canalstart/canalstart/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/72558253eaef07a81bae1e3272497733.webp" group-title="Geek",Polidoro TV
+https://srv2.zcast.com.br/polidorotv/polidorotv/chunklist_w2118592516.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2HaiovZ.png" group-title="Animes",Hallo! Anime
+https://cdn-5.nxplay.com.br/HALLOANIME/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z8BnjPs.png" group-title="Retrô",Hallo! Classic
+https://cdn-3.nxplay.com.br/HALLOCLASSIC/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
+
+#EXTINF:-1 tvg-logo="https://nxplay-images.comets.com.br/resize/671657f5cd310_f7be52eb0e7ee353303543c27735cad3.png" group-title="Docs",Hallo! Doc
+https://cdn-5.nxplay.com.br/HALLODOC/index.m3u8?token=0fb1d8ca306aa36413e9cc65e4fe40c35ffb54d0-3661fd422d102d89db1283e72d1e3b4a-1731305419-1731262219
+
+#EXTINF:-1 tvg-logo="https://htforum.net/data/attachments/17/17099-f1df3467e9cb7b382b92575a2cfb8b7c.jpg" group-title="Filmes & Series",Hallo! Movies
+https://cdn-5.nxplay.com.br:443/HALLOMOVIES/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6hDnWxA.png" group-title="Música",Hallo! Music
+https://cdn-5.nxplay.com.br/HALLOMUSIC/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
+
+#EXTINF:-1 tvg-logo="https://nxplay-images.comets.com.br/resize/6712cb9d27872_d201898ec6c98e84b8e83ab006390217.png" group-title="Variedades",Hallo! Plus
+https://cdn-5.nxplay.com.br/halloplus/tracks-v2a1/mono.m3u8?token=0e2b88d0c02d2ea598f3d816306d68e21d9a0303-5cc252e54d0161a70fef0e0b04441f65-1731305419-1731262219
+
+#EXTINF:-1 tvg-logo="https://slimpack.com.br/wp-content/uploads/2023/03/HALLO-Series.png" group-title="Filmes & Series",Hallo! Series
+https://cdn-5.nxplay.com.br/HALLOSERIES/tracks-v1a1/mono.m3u8?token=cdntv_62qwd7eSv1Ihnlni
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://d14z5zgripclfw.cloudfront.net/account351-i1091/channel/1/thumb_logo-urbandocs-1642531476.png" group-title="Docs",Urban Docs
+http://200.194.238.229:8383/live/urbandocs/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d14z5zgripclfw.cloudfront.net/account351-i1091/channel/3/thumb_logo-urbankids-1642531497.png" group-title="Infantis",Urban Kids
+http://200.194.238.229:8383/live/urbankids/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d14z5zgripclfw.cloudfront.net/account351-i1091/channel/2/thumb_logo-urbanmovies-1642531517.png" group-title="Filmes & Series",Urban Movies
+http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d14z5zgripclfw.cloudfront.net/account351-i1091/channel/4/thumb_logo-urbanseries-1642531559.png" group-title="Filmes & Series",Urban Series
+http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d14z5zgripclfw.cloudfront.net/account351-i1091/channel/12/thumb_selo-urbantravel-1664395038.png" group-title="Docs",Urban Travel
+http://200.194.238.229:8383/live/urbantravel/playlist.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Trace_Brasil_logo.PNG" group-title="Música",Trace Brasil
+https://amg01131-tracetv-tracebrazuca-xiaomi-vvr19.amagi.tv/playlist/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/TRACE_Latina_Logo.png/250px-TRACE_Latina_Logo.png" group-title="Música",Trace Latina
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-latina/encrypted.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7HTxrEq.png" group-title="Esportes",Trace Sport Stars
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Trace_Urban_logo_2010.svg" group-title="Música",Trace Urban
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-urban/encrypted.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://uniquetvplay.com.br/upload/uniquesport1.png" group-title="Esportes",Unique Sports 1
+https://video05.logicahost.com.br/uniquetvsports/uniquetvsports/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://uniquetvplay.com.br/upload/uniquesport2.png" group-title="Esportes",Unique Sports 2
+https://stream.uniquetv.com.br/uniquesports2/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://uniquetvplay.com.br/upload/uniquesport3.png" group-title="Esportes",Unique Sports 3
+https://stream.uniquetv.com.br/uniquesports3/video.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.rsnewswebtv.com.br/storage/47/banner/lZnMd93FcoBMWHiAbyyJn9b0H1JjsnkAT6RBjZRR.png" group-title="Esportes",RS News
+https://video01.logicahost.com.br/rsnewswebtv/rsnewswebtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.rsnewswebtv.com.br/storage/47/banner/v6h5WnbcZSoph5FTkJWj5r9Pf6o3k4vU2jiqCScJ.png" group-title="Esportes",RS News PPW
+https://59f1cbe63db89.streamlock.net:1443/rsnewsppw/_definst_/rsnewsppw/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.rsnewswebtv.com.br/storage/47/banner/wpnJtIfIOoUdRdNq1NJoLvKbw2NHXpjPmmUhFARc.png" group-title="Esportes",RS News Sports
+https://59f1cbe63db89.streamlock.net:1443/rsnewssports/_definst_/rsnewssports/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.rsnewswebtv.com.br/storage/47/banner/Gq34hKTnsqvmzmZI2bGfRlZK5nQr1tLzhjD8KhxJ.png" group-title="Esportes",RS News Sports 2
+https://59f1cbe63db89.streamlock.net:1443/rsnews/_definst_/rsnews/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.rsnewswebtv.com.br/storage/47/banner/CMUxRSgqOnxeMSKZs7IjlVas7CwuGzN0k4E2Pg9k.png" group-title="Esportes",RS News Sports 3
+https://59f1cbe63db89.streamlock.net:1443/rsnews03/_definst_/rsnews03/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.rsnewswebtv.com.br/storage/47/banner/W062gPNkosTJvRXo1pTNFbVmGWHQ08IY44oNi4Fq.png" group-title="Esportes",RS News Sports 4
+https://59f1cbe63db89.streamlock.net:1443/rsnews04/_definst_/rsnews04/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.rsnewswebtv.com.br/storage/47/banner/xbSYwgL3lTqBddhcJ4QC9ECcLEQx5oZ0qFvT3lPe.png" group-title="Esportes",RS News Sports 5
+https://59f1cbe63db89.streamlock.net:1443/danielteste/_definst_/danielteste/playlist.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="6474aa984cfc2c0008883a92" tvg-logo="https://images.pluto.tv/channels/6474aa984cfc2c0008883a92/colorLogoPNG.png" group-title="Docs",Pluto TV Animais
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6474aa984cfc2c0008883a92/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-id="5fa1612a669ba0000702017b" tvg-logo="https://images.pluto.tv/channels/5fa1612a669ba0000702017b/colorLogoPNG.png" group-title="Retrô",Pluto TV Cine Clássicos
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa1612a669ba0000702017b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-id="5f1ef1a8cec6be00072a7ac9" tvg-logo="https://images.pluto.tv/channels/5f1ef1a8cec6be00072a7ac9/colorLogoPNG.png" group-title="Docs",Pluto TV Documentários
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ef1a8cec6be00072a7ac9/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-id="5f1213ba0ecebc00070e170f" tvg-logo="https://images.pluto.tv/channels/5f1213ba0ecebc00070e170f/colorLogoPNG.png" group-title="Docs",Pluto TV Natureza
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-id="5f1212ad1728050007a523b8" tvg-logo="https://images.pluto.tv/channels/5f1212ad1728050007a523b8/colorLogoPNG.png" group-title="Retrô",Pluto TV Retrô
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212ad1728050007a523b8/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/UTSMpfP.png" group-title="Wrestling",AAA Lucha Libre
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f99a772c54853000797bf18/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="5f5141c1605ddf000748eb1b" tvg-logo="https://images.pluto.tv/channels/5f5141c1605ddf000748eb1b/colorLogoPNG.png" group-title="Variedades",FailArmy
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5141c1605ddf000748eb1b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-id="6474aa984cfc2c0008883a92" tvg-logo="https://blueantmedia.com/wp-content/uploads/2020/01/love-nature_transparent-300x200.png" group-title="Docs",Love Nature
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6474aa984cfc2c0008883a92/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-id="60dd6b1da79e4d0007309455" tvg-logo="http://images.pluto.tv/channels/60dd6b1da79e4d0007309455/colorLogoPNG.png" group-title="Docs",Nature Time
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dd6b1da79e4d0007309455/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-id="640a64bd73e013000893d4e0" tvg-logo="https://images.pluto.tv/channels/640a64bd73e013000893d4e0/colorLogoPNG.png" group-title="Docs",PBS Nature
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/640a64bd73e013000893d4e0/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-id="6298bd10d88ef000073f16b7" tvg-logo="https://images.pluto.tv/channels/6298bd10d88ef000073f16b7/colorLogoPNG.png" group-title="Docs",Smithsonian Channel
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6298bd10d88ef000073f16b7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="5f515ebac01c0f00080e8439" tvg-logo="https://images.pluto.tv/channels/5f515ebac01c0f00080e8439/colorLogoPNG.png" group-title="Variedades",The Pet Collective
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f515ebac01c0f00080e8439/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-id="59b722526996084038c01e1b" tvg-logo="http://images.pluto.tv/channels/59b722526996084038c01e1b/colorLogoPNG.png" group-title="Wrestling",TNA Impact Wrestling
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+
+
+
+
+
+
+#EXTINF: -1 tvg-logo="https://imgur.com/wqOAIgT.png" group-title="TVRO: Regionais",Plan TV
+https://live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://imgur.com/9lcmme4.png" group-title="TVRO: Regionais",TV Brasil Internacional
+https://tvbrasilinternacional-stream.ebc.com.br/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/UHZGU8Q.png" group-title="TVRO: Regionais", TV BRUSQUE
+https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/rodrigotvbrusque.com.br/playlist-480p.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/INkJnhX.png" group-title="TVRO: WEB", WEB TV Campeão de Tudo
+https://stmv1.paineldevideo.com.br/claudiorlp/claudiorlp/chunklist_w983955822.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/p7gJt8P.png" group-title="TVRO: Agro",Terra Viva
+https://cdn-5.nxplay.com.br/TERRAVIVA/tracks-v1a1/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20181127/xvg/kisspng-woody-woodpecker-racing-logo-animated-cartoon-special-comics-cup-magazine-1713917644949.webp" group-title="Filmes & Series",TV PicaPau
+http://24hrs.homelinux.com:80/24H-picapau/video.m3u8?token=a4A2wbotS3
+
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/132/180/png-clipart-tom-and-jerry-tom-cat-logo-cartoon-tom-and-jerry.png" group-title="Filmes & Series",TV Tom & Jerry
+http://24hrs.homelinux.com:80/24H-tom-e-jerry/video.m3u8?token=a4A2wbotS3
+
+#EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/mickey-mouse-donald-duck-vector-logo-11574079320qncle6hnve.png" group-title="Filmes & Series",TV Mickey e Donald
+http://24hrs.homelinux.com:80/24H-Mickey.e.Donald.S01/video.m3u8?token=a4A2wbotS3
+
+#EXTINF:-1  tvg-logo="https://w7.pngwing.com/pngs/225/330/png-transparent-el-chavo-del-ocho-logo-quico-chaves-text-signage-graphic-design-thumbnail.png" group-title="Filmes & Series",TV Chaves
+http://24hrs.homelinux.com:80/24H-chaves-a-serie/video.m3u8?token=a4A2wbotS3
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/chapolin-logo-0C047D5F08-seeklogo.com.png" group-title="Filmes & Series",TV Chapolin
+http://24hrs.homelinux.com:80/24H-chapolin1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="HTO FILMES" tvg-logo="https://hdtvone.tv/wp-content/uploads/2018/09/cropped-HTO.tv-LOGO-HEADER-e1535917877621-1.png" group-title="Filmes & Series",HTO Filmes
+https://cdn-5.nxplay.com.br/HTO_Filmes/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="EuropaPlay Nacional" tvg-logo="https://i.imgur.com/N4W3VoB.png" group-title="Filmes & Series",EuropaPlay Nacional
+https://cdn-5.nxplay.com.br/europaplay/index.m3u8
+
+#EXTINF:-1 tvg-id="A&E" tvg-logo="https://imgur.com/EYAmbe4.png" group-title="Filmes & Series",A&E
+https://cdn-5.nxplay.com.br/AeE_BRASIL_TK/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Viajando pelo Brasil" tvg-logo="https://imgur.com/yEvzTGK.png" group-title="Variedades",Viajando pelo Brasil
+http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8?ManoTV
+
+#EXTINF:-1 tvg-id="Animal Planet" tvg-logo="https://imgur.com/t97qwNh.png" group-title="Variedades",Animal Planet
+https://cdn-5.nxplay.com.br/ANIMAL_PLANET_NX/index.m3u8
+
+#EXTINF:-1 tvg-id="History.br" tvg-logo="https://imgur.com/0rNNqVy.png" group-title="Variedades",History
+https://cdn-5.nxplay.com.br/HISTORY_TK/index.m3u8
+
+#EXTINF:-1 tvg-id="Discovery Channel"  tvg-logo="https://imgur.com/dgGgYjc.png" group-title="Variedades",Discovery Channel
+https://cdn-5.nxplay.com.br/DISCOVERY_CHANNEL_NX/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Discovery Science" tvg-logo="https://imgur.com/1Hm6dQU.png" group-title="Variedades",Discovery Science
+https://cdn-5.nxplay.com.br/DISCOVERY_SCIENCE_NX/index.m3u8
+
+#EXTINF:-1 tvg-id="Discovery Theater" tvg-logo="https://imgur.com/NUFWsJ0.png" group-title="Variedades",Discovery Theater
+https://cdn-5.nxplay.com.br/DISCOVERY_THEATER_NX/index.m3u8
+
+#EXTINF:-1 tvg-id="Discovery World" tvg-logo="https://imgur.com/6sTkahx.png" group-title="Variedades",Discovery World
+https://cdn-5.nxplay.com.br/DISCOVERY_WORLD_NX/index.m3u8
+
+#EXTINF:-1 tvg-id="FoodNetwork"  tvg-logo="https://imgur.com/AH3uBDj.png" group-title="Variedades",Food Network
+https://cdn-5.nxplay.com.br/FOOD_NETWORK_NX/index.m3u8
+
+#EXTINF:-1 tvg-id="PIXTV" tvg-logo="https://i.imgur.com/jdd5Jsa.png" group-title="Variedades",PIX TV
+https://cdn-5.nxplay.com.br/PIX_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="catoonnetwork.br"  tvg-logo="https://imgur.com/dlTmblr.png" group-title="Filmes & Series",Cartoon Network
+https://cdn-5.nxplay.com.br/CARTOON_NETWORK_TK/index.m3u8
+
+#EXTINF:-1 tvg-id="tnt.br" tvg-logo="https://img.ip2.digital/tnt.png" group-title="Filmes & Series",TNT
+https://cdn-5.nxplay.com.br/TNT_TK/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Esportes",ESPN 
+https://cdn-5.nxplay.com.br/ESPN/tracks-v1a1/mono.m3u8 
+
+#EXTINF:-1 tvg-id="ESPN 2" tvg- logo="https://i.imgur.com/ZAHnoPh.png" group-title="Esportes",ESPN 2
+https://cdn-5.nxplay.com.br/ESPN_2/tracks-v1a1/mono.m3u8 
+
+#EXTINF:-1 tvg-id="ESPN 3" tvg-logo= "https://imgur.com/VCPTlBD.png" group-title="Esportes",ESPN 3
+https://cdn-5.nxplay.com.br/ESPN_3/tracks-v1a1/mono.m3u8 
+
+#EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://imgur.com/ErWFVO3.png" group-title="Esportes",ESPN 4
+https://cdn-5.nxplay.com.br/ESPN_4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.rbatv.com.br/images/logos/logo.png" group-title="TVRO: Regionais",RBA TV SC
+https://tv02.zas.media:1936/rbatv/rbatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0QYXJwv.png" group-title="TVRO: Regionais",NBT
+https://isaocorp.cloudecast.com/nbt/index.m3u8?ManoTV
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hqBag1J.png" group-title="Variedades",Fireplace Lounge
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fireplace-lounge/master.m3u8
+
+
+
