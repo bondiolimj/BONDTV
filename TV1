@@ -762,7 +762,7 @@ https://tvbrasilinternacional-stream.ebc.com.br/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/UHZGU8Q.png" group-title="TVRO: Regionais", TV BRUSQUE
 https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/rodrigotvbrusque.com.br/playlist-480p.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/INkJnhX.png" group-title="TVRO: WEB", WEB TV Campeão de Tudo
+#EXTINF:-1 tvg-logo="https://imgur.com/INkJnhX.png" group-title="TVRO: Web", WEB TV Campeão de Tudo
 https://stmv1.paineldevideo.com.br/claudiorlp/claudiorlp/chunklist_w983955822.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/p7gJt8P.png" group-title="TVRO: Agro",Terra Viva
