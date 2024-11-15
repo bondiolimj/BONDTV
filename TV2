@@ -4,14 +4,14 @@
 
 
 
-#EXTINF:-1 tvg-id="Cultura" tvg-name="Cultura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png" group-title="TVRO: Pública",TV Cultura
+#EXTINF:-1 tvg-id="Cultura" tvg-name="Cultura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png" group-title="",TV Cultura
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/041a53eb1b2c6c9d65151c102342544b.webp" group-title="",TV Brasil
 https://tvbrasil-stream.ebc.com.br/index.m3u8
 
-#EXTINF:-1 tvg-id="RedeMinas.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/96ed4934fbcf5351314bfabfd78a976c.webp" group-title="",Rede Minas
-https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Globo SP" tvg-logo="https://imgur.com/waZJG1M.png" group-title="",Globo
+https://cdn-5.nxplay.com.br/GLOBO_SP_TK/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rede-globo-logopedia/images/4/4b/Vanguarda_2003.png/revision/latest?cb=20220812084051" group-title="",TV Vanguarda
 http://15.235.15.230:14512/
@@ -22,7 +22,7 @@ https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bandeirantes-band-logo-56FE915446-seeklogo.com.png" group-title="",Band
 https://cdn-5.nxplay.com.br/BAND_HD_PFZ_NX/tracks-v2a1/mono.m3u8?ManoTV
 
-#EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN BRASIL" tvg-logo="https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo-0.png" group-title="Noticias",CNN Brasil
+#EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN BRASIL" tvg-logo="https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo-0.png" group-title="",CNN Brasil
 https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
 
 #EXTINF:-1 tvg-id="GLOBO NEWS" tvg-logo="https://imgur.com/Wu4ykxo.png" group-title="",Globo News
@@ -31,11 +31,17 @@ https://stream1.freetv.fun/globo-news-2.m3u8
 #EXTINF:-1 tvg-id="BANDNEWS" tvg-logo="https://imgur.com/jCZzNjF.png" group-title="",Band News
 https://cdn-5.nxplay.com.br/BAND_NEWS_TK/tracks-v2a1/mono.m3u8?ManoTV
 
-#EXTINF:-1 tvg-id="newbrasi.br" tvg-logo="https://imgur.com/vSKVrvH.png" group-title="",New Brasil
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/fee4bcbe6932805a9862a46b1773a0c1.webp" group-title="",Euronews PT
+https://euronews-euronews-portugues-1-us.plex.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="newbrasil.br" tvg-logo="https://imgur.com/vSKVrvH.png" group-title="",New Brasil
 https://cc-7pakstinpyajo.akamaized.net/playlist720lp.m3u8
 
 #EXTINF:-1 tvg-id="BAND SPORTS" tvg-logo="https://i.imgur.com/LSZ5VKi.png" group-title="",Band Sports
 https://stream1.freetv.fun/band-sports-3.m3u8
+
+#EXTINF:-1 tvg-id="RedeMinas.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/96ed4934fbcf5351314bfabfd78a976c.webp" group-title="",Rede Minas
+https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/dC2p8J1.png" group-title="",Canal UOL
 https://d19fe0yjxkxylf.cloudfront.net/index.m3u8
@@ -67,13 +73,29 @@ https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 #EXTINF:-1 tvg-id="telecinecult" tvg-logo="https://img.ip2.digital/telecineCULT.png" group-title="",Telecine Cult
 http://15.235.50.113:14015
 
+#EXTINF:-1 tvg-id="Animal Planet" tvg-logo="https://imgur.com/t97qwNh.png" group-title="",Animal Planet
+https://cdn-5.nxplay.com.br/ANIMAL_PLANET_NX/index.m3u8
 
+#EXTINF:-1 tvg-id="History.br" tvg-logo="https://imgur.com/0rNNqVy.png" group-title="",History
+https://cdn-5.nxplay.com.br/HISTORY_TK/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/eab8e4fcefd5980ba7e4aaf007da267d.webp" group-title="",Amazon Sat
-https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+#EXTINF:-1 tvg-id="Discovery Channel"  tvg-logo="https://imgur.com/dgGgYjc.png" group-title="",Discovery Channel
+https://cdn-5.nxplay.com.br/DISCOVERY_CHANNEL_NX/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xnBg83J.png" group-title="",Astral TV
-https://isaocorp.cloudecast.com/astraltv/index.m3u8
+#EXTINF:-1 tvg-id="Discovery Science" tvg-logo="https://imgur.com/1Hm6dQU.png" group-title="",Discovery Science
+https://cdn-5.nxplay.com.br/DISCOVERY_SCIENCE_NX/index.m3u8
+
+#EXTINF:-1 tvg-id="Discovery Theater" tvg-logo="https://imgur.com/NUFWsJ0.png" group-title="",Discovery Theater
+https://cdn-5.nxplay.com.br/DISCOVERY_THEATER_NX/index.m3u8
+
+#EXTINF:-1 tvg-id="Discovery World" tvg-logo="https://imgur.com/6sTkahx.png" group-title="",Discovery World
+https://cdn-5.nxplay.com.br/DISCOVERY_WORLD_NX/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/168f0c2d7fb92988c1cb0f156fe390eb.webp" group-title="",Play TV
+https://isaocorp.cloudecast.com/playtv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1d08352f33c92124373d9f3b0fcf2ef8.webp" group-title="",Loading TV
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 
 #EXTINF:-1 tvg-type="stream" tvg-id="-1" tvg-logo="https://tvmaispet.com.br/wp-content/uploads/2024/04/tv-mais-pet-com-sombra.png" group-title="",TV +Pet
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -125,6 +147,20 @@ https://cdn-5.nxplay.com.br/TOONCAST_TK/tracks-v2a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://ju-sama.com.br/blog/wp-content/uploads/2023/03/Sato_41.png" group-title="",Sato+
 https://sto-sat-samsung.otteravision.com/sto/sat/sat.m3u8
 
+#EXTINF:-1 tvg-id="tnt.br" tvg-logo="https://img.ip2.digital/tnt.png" group-title="",TNT
+https://cdn-5.nxplay.com.br/TNT_TK/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="",ESPN 
+https://cdn-5.nxplay.com.br/ESPN/tracks-v1a1/mono.m3u8 
+
+#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="",ESPN 2
+https://cdn-5.nxplay.com.br/ESPN_2/tracks-v1a1/mono.m3u8 
+
+#EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://imgur.com/VCPTlBD.png" group-title="",ESPN 3
+https://cdn-5.nxplay.com.br/ESPN_3/tracks-v1a1/mono.m3u8 
+
+#EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://imgur.com/ErWFVO3.png" group-title="",ESPN 4
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SY31PgU.png" group-title="",GE Fast
 https://cc-huzqc47g60md7.akamaized.net/Globo/GE_Fast_BR/GE_Fast.m3u8
 
@@ -139,6 +175,12 @@ https://a.cdni.live/radioesporte/radioesporte/chunklist_w1002148111.m3u8?ManoTV
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nk19QkO.png" group-title="",National Sports Channel
 https://cdn-5.nxplay.com.br/PLAYOUT_02_NSC/tracks-v2a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/eab8e4fcefd5980ba7e4aaf007da267d.webp" group-title="",Amazon Sat
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xnBg83J.png" group-title="",Astral TV
+https://isaocorp.cloudecast.com/astraltv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/duy6waL.png" group-title="",TV Senado
 https://cdn-5.nxplay.com.br/TV_SENADO/tracks-v1a1/index.m3u8
@@ -172,9 +214,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=758
 
 #EXTINF:-1 tvg-logo="https://camo.githubusercontent.com/86060b429f69c5273e051d0b0d0da045bb61c77b4fa11b0f474f8502bc080b59/68747470733a2f2f692e696d6775722e636f6d2f34497a565351492e706e67" group-title="",Bike Channel (IT)
 https://cdn02.argocdn.net/argocdn/bikechannel/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/fee4bcbe6932805a9862a46b1773a0c1.webp" group-title="",Euronews PT
-https://euronews-euronews-portugues-1-us.plex.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c3b63747c2a7653bbc391d3fa24fcb5c.webp" group-title="",Jockey Maroñas (URU)
 https://live.codereuruguay.edge2befaster.io/codereuruguay/maronas1/master.m3u8
