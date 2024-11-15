@@ -43,6 +43,9 @@ https://d19fe0yjxkxylf.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-id="SESCTV.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c468b9d992576228b761c5b5b3af3724.webp" group-title="",Sesc TV
 https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/b0601c5cba87e912a4e37e8b68c1499b/video/3ddc38be-7935-4d7d-ad0c-2da72c1d5613_index1080p.m3u8
 
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nY56F2Ce90mGC2rs5i47I3TlkneUmvZ01FgTenU0ltjg=s900-c-k-c0x00ffffff-no-rj" group-title="",TV Turfe
+https://ythls-v3.onrender.com/channel/UCQla7pKe2GX2vp0oMrRbtSw.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/72dfb2cbf8642b7bdac713efc416b5b6.webp" group-title="",Curta!
 https://video01.logicahost.com.br/canalcurta/canalcurta/index.m3u8
 
@@ -60,6 +63,11 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=568
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/34b6cd484508db6e25bb987700ae8d36.webp" group-title="",Classic Arts Showcase
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
+
+#EXTINF:-1 tvg-id="telecinecult" tvg-logo="https://img.ip2.digital/telecineCULT.png" group-title="",Telecine Cult
+http://15.235.50.113:14015
+
+
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/eab8e4fcefd5980ba7e4aaf007da267d.webp" group-title="",Amazon Sat
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
