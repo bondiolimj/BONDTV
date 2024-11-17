@@ -165,9 +165,6 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SY31PgU.png" group-title="Esportes",GE Fast
 https://cc-huzqc47g60md7.akamaized.net/Globo/GE_Fast_BR/GE_Fast.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/8bOLuMxNwuWDpxX5T_ByHQzR-aoa4hn8qDIRBvYNSlM26HPMQkyg2KbuJzlge_yfo0yZtgEGpQ=s900-c-k-c0x00ffffff-no-rj" group-title="Esportes",Woohoo Surf
-https://live01.woohoo.cportal.com.br/WhFAST/HLS/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Caz%C3%A9TV.png" group-title="Esportes",CazéTV
 https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/Caze_TV.m3u8
 
