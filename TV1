@@ -425,8 +425,9 @@ http://200.194.238.229:8383/live/urbantravel/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/U/uvb-76-the-buzzer-radio-russian-logo-1A2D6F7F4E-seeklogo.com.png" group-title="Curiosidades",The Buzzer/UVB-76(4625Khz)
+https://ythls-v3.onrender.com/channel/UCn_5SHr4B5fTjOyrI5igyOg.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hqBag1J.png" group-title="Variedades",Fireplace Lounge
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hqBag1J.png" group-title="Curiosidades",Fireplace Lounge
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fireplace-lounge/master.m3u8
 
