@@ -138,19 +138,19 @@ https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://redeitv.com.br/wp-content/uploads/jet-engine-forms/145/2023/08/IMG-20221121-WA0020-e1692189600943.jpg" group-title="Retrô",Kids Mais
 https://video03.logicahost.com.br/novafamilia01/novafamilia01/chunklist_w1191580796.m3u8
 
-#EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20181127/xvg/kisspng-woody-woodpecker-racing-logo-animated-cartoon-special-comics-cup-magazine-1713917644949.webp" group-title="",TV PicaPau
+#EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20181127/xvg/kisspng-woody-woodpecker-racing-logo-animated-cartoon-special-comics-cup-magazine-1713917644949.webp" group-title="Retrô",TV PicaPau
 http://24hrs.homelinux.com:80/24H-picapau/video.m3u8?token=a4A2wbotS3
 
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/132/180/png-clipart-tom-and-jerry-tom-cat-logo-cartoon-tom-and-jerry.png" group-title="",TV Tom & Jerry
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/132/180/png-clipart-tom-and-jerry-tom-cat-logo-cartoon-tom-and-jerry.png" group-title="Retrô",TV Tom & Jerry
 http://24hrs.homelinux.com:80/24H-tom-e-jerry/video.m3u8?token=a4A2wbotS3
 
-#EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/mickey-mouse-donald-duck-vector-logo-11574079320qncle6hnve.png" group-title="",TV Mickey e Donald
+#EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/mickey-mouse-donald-duck-vector-logo-11574079320qncle6hnve.png" group-title="Retrô",TV Mickey e Donald
 http://24hrs.homelinux.com:80/24H-Mickey.e.Donald.S01/video.m3u8?token=a4A2wbotS3
 
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/225/330/png-transparent-el-chavo-del-ocho-logo-quico-chaves-text-signage-graphic-design-thumbnail.png" group-title="",TV Chaves
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/225/330/png-transparent-el-chavo-del-ocho-logo-quico-chaves-text-signage-graphic-design-thumbnail.png" group-title="Retrô",TV Chaves
 http://24hrs.homelinux.com:80/24H-chaves-a-serie/video.m3u8?token=a4A2wbotS3
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/chapolin-logo-0C047D5F08-seeklogo.com.png" group-title="",TV Chapolin
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/chapolin-logo-0C047D5F08-seeklogo.com.png" group-title="Retrô",TV Chapolin
 http://24hrs.homelinux.com:80/24H-chapolin1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/85f7dfdee045ef4fce8cd777b2d3574d.webp" group-title="Retrô",NOW 70s
