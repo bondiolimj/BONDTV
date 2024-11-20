@@ -1,11 +1,30 @@
 #EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/brazil.xml,https://www.bevy.be/bevyfiles/portugal.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml,https://raw.githubusercontent.com/helenfernanda/gratis/main/distrotv.xml,https://www.bevy.be/bevyfiles/mexicopremium.xml"
 
 
+
+#EXTINF:-1 tvg-id="sbt.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png" group-title="TV Aberta",SBT
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/640px-Band_Marca.png" group-title="TV Aberta",Band
+https://cdn-5.nxplay.com.br/BAND_HD_PFZ_NX/tracks-v2a1/mono.m3u8?ManoTV
+
+#EXTINF:-1 tvg-id="RedeGlobo.br" tvg-logo="https://static.wikia.nocookie.net/rede-globo-logopedia/images/4/4b/Vanguarda_2003.png/revision/latest?cb=20220812084051" group-title="TV Aberta",TV Vanguarda
+http://15.235.15.230:14512/
+
+#EXTINF:-1 tvg-id="TVBrasil.br"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/TV_Brasil_logo_2023.svg/2560px-TV_Brasil_logo_2023.svg.png" group-title="TV Aberta",TV Brasil
+https://tvbrasil-stream.ebc.com.br/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="TV Aberta",TV Aparecida
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png" group-title="TV Aberta",Rede Vida
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cultura" tvg-name="Cultura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png" group-title="TV Aberta",TV Cultura
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/0e/Logotipo_da_Record_%28rede_de_televis%C3%A3o%29.png" group-title="TV Aberta",Record
+https://cdn-5.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="TVPAIETERNO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7c/Logotipo_TV_Pai_Eterno.png" group-title="TV Aberta",TV Pai Eterno
 https://58c8a6b3c74e2.streamlock.net:1936/tvci/tvci/playlist.m3u8
@@ -18,12 +37,6 @@ https://cdn2.easy.tv.br/cancaonova/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVEVANGELIZAR"  tvg-logo="https://pbs.twimg.com/profile_images/1479075914386448392/64k6l2LR_400x400.jpg" group-title="TV Aberta",TV Evangelizar
 https://tvevangelizar.brasilstream.com.br/hls/tvevangelizar/index.m3u8
-
-#EXTINF:-1 tvg-id="RedeGlobo.br" tvg-logo="https://static.wikia.nocookie.net/rede-globo-logopedia/images/4/4b/Vanguarda_2003.png/revision/latest?cb=20220812084051" group-title="TV Aberta",TV Vanguarda
-http://15.235.15.230:14512/
-
-#EXTINF:-1 tvg-id="TVBrasil.br"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/TV_Brasil_logo_2023.svg/2560px-TV_Brasil_logo_2023.svg.png" group-title="TV Aberta",TV Brasil
-https://tvbrasil-stream.ebc.com.br/index.m3u8
 
 #EXTINF:-1 tvg-id="RedeMinas.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Rede_Minas_logo.png" group-title="TV Aberta",Rede Minas
 https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
@@ -61,10 +74,10 @@ https://video08.logicahost.com.br/tvc21/tvc21/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Top_TV_logo.svg/800px-Top_TV_logo.svg.png" group-title="TV Aberta",Top TV
 https://isaocorp.cloudecast.com/toptv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/7c62d247363cc8e7978ecced6639393b.webp" group-title="TV Aberta",TV Thathi
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_cv6qqqthwoxKMToxggGwvDGs5wOZSaZ-HA&s" group-title="TV Aberta",TV Thathi
 https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/689f8e1fbf539be1c6e2a36b9283b324.webp" group-title="TV Aberta",Santa Cecília TV
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/cd9IkPDmhaniVrWVcfCCvMg36A16p-FvyOJXZl3jxfvH8ZX9up_fo6w5oC94K32J70b79pZaOQ=s900-c-k-c0x00ffffff-no-rj" group-title="TV Aberta",Santa Cecília TV
 https://60d88f8ce1206.streamlock.net/2063/2063/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.builderservices.io/s/cdn/v1.0/i/m?url=https%3A%2F%2Fstorage.googleapis.com%2Fproduction-hostgator-brasil-v1-0-3%2F253%2F1028253%2FGDNFdn7O%2Fe42b2675cc2448d6a0b147d6de288138&methods=resize%2C1000%2C5000" group-title="TV Aberta",Rede UTV
@@ -72,6 +85,9 @@ https://utvsite.acessaradios.com.br/utvsite/utvsite.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e414ab0d872ac5b8150c68992800059f.webp" group-title="TV Aberta",Rede América
 https://stmv5.samcast.com.br/claudio6986/claudio6986/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/RFTV_logo_2023.png" group-title="TVRO: Nacionais",RFTV
+https://tv01.zas.media:1936/rftv/rftv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Logo-CentralTV-impressao.png" group-title="TV Aberta",Central TV
 https://tv01.zas.media:1936/centraltvweb/centraltvweb/playlist.m3u8
@@ -118,13 +134,28 @@ https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCulturaNacional.br" tvg-name="Cultura" tvg-logo="https://play-lh.googleusercontent.com/tVsFBI_ehZbBcxWnrVpCd7ko6Gl2w0potfQkIbpYsY8NVI4FBHdcHUlbNcX4_ttVnMM=w600-h300-pc0xffffff-pd" group-title="TV Aberta",TV Cultura Pará
 https://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/chunklist_w144947531.m3u8
 
+#EXTINF:-1  tvg-id="Canal do Boi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa_irUvPV78q69PIudjKibqrPmYyHvguojwxdj10chMQ&s" group-title="TV Aberta",Canal do Boi
+https://aovivo3.equipea.com.br:5443/aovivort/streams/7JqTuqkq5OwZ89cw1724977438534.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/p7gJt8P.png" group-title="TV Aberta",Terra Viva
+https://cdn-5.nxplay.com.br/TERRAVIVA/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal Rural" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/2823b58a4365d7cb2d69616fb0ca06bc.webp" group-title="TV Aberta",Canal Rural
+https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RIT.br" tvg-logo="https://imgur.com/psyk2C5.png" group-title="TV Aberta",RIT
+https://cdn-5.nxplay.com.br/RIT_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/Logotipo_100x100_2Ofmxdy.png" group-title="TV Aberta",Rede Mais Família
+https://video09.logicahost.com.br/redefamilia/redefamilia/playlist.m3u8
+
 #EXTINF:-1 tvg-id="SulBA.br" tvg-logo="https://i.imgur.com/ScGRWhq.png" group-title="TV Aberta",TV SulBA
 https://video05.logicahost.com.br/tvsulba/tvsulba/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa9I18LvfmiuurE7LLUz_xTfCe2LLC4wrdHQ&s" group-title="TV Aberta",Vila TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa9I18LvfmiuurE7LLUz_xTfCe2LLC4wrdHQ&s" group-title="TV Aberta",Vila TV
 https://streamserver.streamingdevideo.com.br/8072/8072/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvlitoralrn.com.br/wp-content/uploads/2024/10/cropped-logo-22.png" group-title="TV Aberta",TV Litoral (RN)
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvlitoralrn.com.br/wp-content/uploads/2024/10/cropped-logo-22.png" group-title="TV Aberta",TV Litoral (RN)
 https://video07.logicahost.com.br/tvlitoralrn01/tvlitoralrn01/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVEscola.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/CANALEDUCA%C3%87%C3%83O.png" group-title="TV Aberta",Canal Educação
@@ -208,6 +239,24 @@ http://24hrs.homelinux.com:80/24H-chapolin1/tracks-v1a1/mono.m3u8
 
 
 
+#EXTINF:-1 tvg-id="CNBC BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Times_Brasil_CNBC_logo.svg/1024px-Times_Brasil_CNBC_logo.svg.png" group-title="Noticias",CNBC Brasil
+https://cr7v.short.gy/mano/CnbcBR/Index.m3u8
+
+#EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN BRASIL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/CNN_Brasil.svg/revision/latest/scale-to-width-down/250?cb=20200204234630" group-title="Noticias",CNN Brasil
+https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
+
+#EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2023/11/novo-logo-record-news-png.png" group-title="Noticias",Record News
+https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Jovem_Pan_News.png" group-title="Noticias",Jovem Pan News
+https://amg01391-addigital-jovempan-distrotv-tvd2e.amagi.tv/playlist/amg01391-addigital-jovempan-distrotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNF62AHAkrjHw14P8E9FgzbZ2j0asIgaZdrg&s" group-title="Noticias",Euronews PT
+https://euronews-euronews-portugues-1-us.plex.wurl.tv/playlist.m3u8
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SY31PgU.png" group-title="Esportes",GE Fast
 https://cc-huzqc47g60md7.akamaized.net/Globo/GE_Fast_BR/GE_Fast.m3u8
 
@@ -220,6 +269,11 @@ https://cdn-5.nxplay.com.br/PLAYOUT_02_NSC/tracks-v2a1/index.m3u8
 #EXTINF: -1 tvg-logo="https://camo.githubusercontent.com/86060b429f69c5273e051d0b0d0da045bb61c77b4fa11b0f474f8502bc080b59/68747470733a2f2f692e696d6775722e636f6d2f34497a565351492e706e67" group-title="Esportes",Bike Channel (IT)
 https://cdn02.argocdn.net/argocdn/bikechannel/video.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Eurosport_Logo_2015.png/1200px-Eurosport_Logo_2015.png" group-title="Esportes",Eurosport 1
+http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8026
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Eurosport_Logo_2015.png/1200px-Eurosport_Logo_2015.png" group-title="Esportes",Eurosport 2
+http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8024
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nY56F2Ce90mGC2rs5i47I3TlkneUmvZ01FgTenU0ltjg=s900-c-k-c0x00ffffff-no-rj" group-title="Turfe",TV Turfe
