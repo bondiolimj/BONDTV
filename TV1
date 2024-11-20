@@ -1,10 +1,10 @@
 #EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/brazil.xml,https://www.bevy.be/bevyfiles/portugal.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml,https://raw.githubusercontent.com/helenfernanda/gratis/main/distrotv.xml,https://www.bevy.be/bevyfiles/mexicopremium.xml"
 
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/7aa4d69d868651e45190d52845387434.webp" group-title="TV Aberta",TV Aparecida
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="TV Aberta",TV Aparecida
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/85e5f6b6aa459a384730e3b520e1e728.webp" group-title="TV Aberta",Rede Vida
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png" group-title="TV Aberta",Rede Vida
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVPAIETERNO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7c/Logotipo_TV_Pai_Eterno.png" group-title="TV Aberta",TV Pai Eterno
@@ -34,28 +34,28 @@ https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 #EXTINF:-1 tvg-id="RedeMeioNorte.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/17/Logotipo_da_TV_Meio.png" group-title="TV Aberta",TV Meio
 https://br5093.streamingdevideo.com.br/jztykfkpnu/jztykfkpnu/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVACritica.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ce8f621678e717cabf4a5e8ee0f6ed70.webp" group-title="TV Aberta",RTN (TV A Crítica SP)
+#EXTINF:-1 tvg-id="TVACritica.br" tvg-logo="https://media.licdn.com/dms/image/v2/D563DAQHNg57z1KBeTQ/image-scale_191_1128/image-scale_191_1128/0/1689355652215/tv_rtn_cover?e=2147483647&v=beta&t=j8uqzRJ5kXEsANHgV9OHfoLOwHE4Gy9RBOLNyUhm7I4" group-title="TV Aberta",RTN (TV A Crítica SP)
 https://tv01.zas.media:1936/rtntv/rtntv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVPampa.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/65d9059a562708573579342225f53e0b.webp" group-title="TV Aberta",TV Pampa (Rede TV RS)
+#EXTINF:-1 tvg-id="TVPampa.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Logotipo_da_TV_Pampa.png" group-title="TV Aberta",TV Pampa (Rede TV RS)
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RedeBrasil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/RBTV23.png" group-title="TV Aberta",Rede Brasil
 https://video01.logicahost.com.br/redebrasil02/redebrasil02/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://alemdatela.com/wp-content/uploads/2021/04/RBTV-1.jpg" group-title="TV Aberta",RBTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a5/Logotipo_RBTV.png" group-title="TV Aberta",RBTV
 http://brsupertv.brsuper.com.br:9080/hls/brsupertv.m3u8?ManoTV
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/logo_istv_png_shjUMVl.png" group-title="TV Aberta",ISTV
 https://video08.logicahost.com.br/istvnacional/srt.stream/istvnacional.m3u8
 
-#EXTINF:-1 tvg-id="TVUniaoFortaleza.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/d6a520da03967f5de06a99893a65ab99.webp" group-title="TV Aberta",TV União
+#EXTINF:-1 tvg-id="TVUniaoFortaleza.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Rede.Uni%C3%A3o.de.Televis%C3%A3o.png" group-title="TV Aberta",TV União
 https://live.uniaoplus.com/hls/0gmf9QNc7bQ6V0Lu.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/logo_100x100_pr.png" group-title="TV Aberta",NGT
 https://isaocorp.cloudecast.com/ngt/index.m3u8
 
-#EXTINF:-1 tvg-id="TVGazeta.br" tvg-logo="https://play-lh.googleusercontent.com/UGXTMajQzEpLMZgCM02kEA6b3q_UZjQXJWdFMhPwmUcpN77tyS5dPv2MRIy6IVmMEw" group-title="TV Aberta",TV Gazeta
+#EXTINF:-1 tvg-id="TVGazeta.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/1280px-TV_Gazeta.svg.png" group-title="TV Aberta",TV Gazeta
 https://video08.logicahost.com.br/tvc21/tvc21/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Top_TV_logo.svg/800px-Top_TV_logo.svg.png" group-title="TV Aberta",Top TV
@@ -67,22 +67,22 @@ https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/689f8e1fbf539be1c6e2a36b9283b324.webp" group-title="TV Aberta",Santa Cecília TV
 https://60d88f8ce1206.streamlock.net/2063/2063/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/74a615920288577b11ec8ae78badf28b.webp" group-title="TV Aberta",Rede UTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.builderservices.io/s/cdn/v1.0/i/m?url=https%3A%2F%2Fstorage.googleapis.com%2Fproduction-hostgator-brasil-v1-0-3%2F253%2F1028253%2FGDNFdn7O%2Fe42b2675cc2448d6a0b147d6de288138&methods=resize%2C1000%2C5000" group-title="TV Aberta",Rede UTV
 https://utvsite.acessaradios.com.br/utvsite/utvsite.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e414ab0d872ac5b8150c68992800059f.webp" group-title="TV Aberta",Rede América
 https://stmv5.samcast.com.br/claudio6986/claudio6986/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/84998832d7465ef731fc0e141e6c5efa.webp" group-title="TV Aberta",Central TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Logo-CentralTV-impressao.png" group-title="TV Aberta",Central TV
 https://tv01.zas.media:1936/centraltvweb/centraltvweb/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/5f76c31bdfdfc45a625eabc1f6dd9249.webp" group-title="TV Aberta",TV Padre Cícero
 https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVCidadeVerdeCuiaba.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/5aaaf81af069b1b3a7639fc85b0023be.webp" group-title="TV Aberta",TV Cidade Verde (MT)
+#EXTINF:-1 tvg-id="TVCidadeVerdeCuiaba.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/29/Logotipo_da_Rede_Cidade_Verde.png" group-title="TV Aberta",TV Cidade Verde (MT)
 https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8
 
-#EXTINF:-1 tvg-id="UnivespTV.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1dad8510439a1c4f9a4caada998b7f5d.webp" group-title="TV Aberta",Master TV (TV UNIVESP)
+#EXTINF:-1 tvg-id="UnivespTV.br" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-wsdIjx8t5fdH6cfYR_9z2N45FYzpL6WJDvXA2CKCK-_gRlKtpA6iBwafX_6eUky4mNDD-8OGU_4FYAV1LUC5_hOq4M91KAhI5lbrfp6tNYho-uY1cGc9LgDJuvdtch7rpt9mSdAmn6o/s1600/Logo_univesp.png" group-title="TV Aberta",Master TV (TV UNIVESP)
 https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wixstatic.com/media/9b4759_2455541c839e4dc6972ff9234d2ef2bf~mv2.png/v1/fill/w_682,h_304,al_c,lg_1,q_85,enc_auto/9b4759_2455541c839e4dc6972ff9234d2ef2bf~mv2.png" group-title="TV Aberta",Vivax TV
@@ -91,10 +91,10 @@ https://stmv2.samcast.com.br/marcus8647/marcus8647/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/af/Logotipo_da_TV_Brasil_Oeste.png" group-title="TV Aberta",TBO (Rede Brasil MT)
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8?ManoTV
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/6b1c315f362d5cbb750ae5b291a4b48b.webp" group-title="TV Aberta",TV Marajoara
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvmarajoara.com.br/wp-content/uploads/sites/46/2023/06/logotipo.png" group-title="TV Aberta",TV Marajoara
 https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://pa-str.srvsite.com/arquivos/4172/cabecalho-4172-20230519171653.png" group-title="TV Aberta",TV Sul (Rede Brasil SC)
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.redetvsul.tv/wp-content/uploads/sites/65/2024/09/logo.png" group-title="TV Aberta",TV Sul (Rede Brasil SC)
 https://5a0c3936c25c8.streamlock.net:443/8032/8032/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e6d3c0b09c4da55520dde4ad36c1c3b5.webp" group-title="TV Aberta",TVOne
@@ -112,7 +112,7 @@ http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tbxAkds.png" group-title="TV Aberta",TV Brasil Central (Cultura MT)
 https://tbc.zoeweb.tv:443/tbc/tbc/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ac86ed7edabf2d886a3b8430b4f13c91.webp" group-title="TV Aberta",CATVE (Cultura Cascavel PR)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Catve.png" group-title="TV Aberta",CATVE (Cultura Cascavel PR)
 https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVCulturaNacional.br" tvg-name="Cultura" tvg-logo="https://play-lh.googleusercontent.com/tVsFBI_ehZbBcxWnrVpCd7ko6Gl2w0potfQkIbpYsY8NVI4FBHdcHUlbNcX4_ttVnMM=w600-h300-pc0xffffff-pd" group-title="TV Aberta",TV Cultura Pará
@@ -121,10 +121,10 @@ https://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/chunklist_w1449
 #EXTINF:-1 tvg-id="SulBA.br" tvg-logo="https://i.imgur.com/ScGRWhq.png" group-title="TV Aberta",TV SulBA
 https://video05.logicahost.com.br/tvsulba/tvsulba/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/f97c5Fk.png" group-title="TV Aberta",Vila TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa9I18LvfmiuurE7LLUz_xTfCe2LLC4wrdHQ&s" group-title="TV Aberta",Vila TV
 https://streamserver.streamingdevideo.com.br/8072/8072/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ad61476e5c6bb78d3f6893528d82ee40.webp" group-title="TV Aberta",TV Litoral (RN)
+#EXTINF:-1 tvg-logo="https://tvlitoralrn.com.br/wp-content/uploads/2024/10/cropped-logo-22.png" group-title="TV Aberta",TV Litoral (RN)
 https://video07.logicahost.com.br/tvlitoralrn01/tvlitoralrn01/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVEscola.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/CANALEDUCA%C3%87%C3%83O.png" group-title="TV Aberta",Canal Educação
@@ -137,7 +137,7 @@ https://canaleducacao-stream.ebc.com.br/chunks.m3u8
 #EXTVLCOPT:http-referrer=https://www.gov.br/mec/pt-br/canal-libras
 https://canallibras-stream.ebc.com.br/chunks.m3u8
 
-#EXTINF:-1 tvg-id="CANALSAUDE" tvg-logo="https://duxnet.com.br/wp-content/uploads/2023/04/CANAL-SAUDE.jpg" group-title="TV Aberta",Canal Saúde
+#EXTINF:-1 tvg-id="CANALSAUDE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_cv6qqqthwoxKMToxggGwvDGs5wOZSaZ-HA&s" group-title="TV Aberta",Canal Saúde
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64;rv:60.0)Gecko/20100101 Firefox/67.0
 #EXTVLCOPT:http-referrer=https://www.canalsaude.fiocruz.br/canal/aoVivo,https://eduplay.rnp.br
 https://cdn.eduplay.rnp.br/route/CFwapWdsWCYQ/index.m3u8?s=aHR0cHM6Ly9tZWRpYS5lZHVwbGF5LnJucC5ici9tZWRpYS9DRndhcFdkc1dDWVEvaW5kZXgubTN1OD94PTEmbT0tOV9icElwMl9ySFA4V0dnUERBRFRn&x=1&p=10&m=Ax0DMnlL_LQ2dCZxB-vaTQ
