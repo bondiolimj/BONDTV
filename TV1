@@ -89,11 +89,20 @@ https://utvsite.acessaradios.com.br/utvsite/utvsite.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e414ab0d872ac5b8150c68992800059f.webp" group-title="TV Aberta",Rede América
 https://stmv5.samcast.com.br/claudio6986/claudio6986/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/RFTV_logo_2023.png" group-title="TV Aberta",RFTV
+#EXTINF:-1 tvg-id="redefamilia.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/RFTV_logo_2023.png" group-title="TV Aberta",RFTV
 https://tv01.zas.media:1936/rftv/rftv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Logo-CentralTV-impressao.png" group-title="TV Aberta",Central TV
 https://tv01.zas.media:1936/centraltvweb/centraltvweb/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SBTBA" tvg-name="SBT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/60/Logotipo_da_TV_Aratu.png" group-title="TV Aberta",TV Aratu
+https://ythls-v3.onrender.com/channel/UCX_Nxpcz-9EXhRIlaoo2c-w.m3u8
+
+#EXTINF:-1 tvg-id="SBTBA" tvg-name="SBT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/60/Logotipo_da_TV_Aratu.png" group-title="TV Aberta",TV Aratu
+https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wixstatic.com/media/a57ecd_3a4a9d8bfe1c46759796649e8b44ba25~mv2.png/v1/fill/w_280,h_156,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/logo%20umatv%20SEM%20FUNDO.png" group-title="TV Aberta",UmaTV
+https://acesso.ecast.site:3011/live/umatvlive.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/5f76c31bdfdfc45a625eabc1f6dd9249.webp" group-title="TV Aberta",TV Padre Cícero
 https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
@@ -349,12 +358,22 @@ https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-id="PrimeBoxBrazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/PrimeBoxBrazil2019.png" group-title="Variedades",Prime Box Brasil
+http://cdn-3.nxplay.com.br/PRIME_HD/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVNLhG2Nmqp8u93KVyTpHbUAUPFATW30Xq3g&s" group-title="Variedades",Curta!
+https://video01.logicahost.com.br/canalcurta/canalcurta/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/dC2p8J1.png" group-title="Variedades",Canal UOL
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Arte_1_logo.svg/2048px-Arte_1_logo.svg.png" group-title="Variedades",Arte 1
+https://cdn-3.nxplay.com.br/ARTE1_TK/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://revistamomentos.co/wp-content/uploads/2017/06/Logo-Film-Arts.png" group-title="Variedades",Film & Arts
+https://cdn-3.nxplay.com.br/Film_Arts_Brasil_TK/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/dC2p8J1.png" group-title="Variedades",Canal UOL
 https://d19fe0yjxkxylf.cloudfront.net/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://combrasiltv.com.br/wp-content/uploads/2022/04/Sem-Titulo-2.png" group-title="Variedades",Com Brasil
+#EXTINF:-1 tvg-id="" tvg-logo="https://combrasiltv.com.br/wp-content/uploads/2022/04/Sem-Titulo-2.png" group-title="Variedades",Com Brasil
 https://br5093.streamingdevideo.com.br/abc/abc/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="newbrasi.br" tvg-logo="https://imgur.com/vSKVrvH.png" group-title="Variedades",New Brasil
@@ -365,6 +384,9 @@ https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/b0601c5cba87e912a4
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tvmaispet.com.br/wp-content/uploads/2024/04/tv-mais-pet-com-sombra.png" group-title="Variedades",TV +Pet
 https://isaocorp.cloudecast.com/tvmaispet/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jdd5Jsa.png" group-title="Variedades",PIX TV
+https://cdn-5.nxplay.com.br/PIX_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xnBg83J.png" group-title="Variedades",Astral TV
 https://isaocorp.cloudecast.com/astraltv/index.m3u8
@@ -386,9 +408,6 @@ https://cdn-5.nxplay.com.br/FISH_TV_NX_TK/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCYW1R8sN2NafFNZjQN0Juw2FbKBUQsCaX4rs3Hz77-Ig0JXzrwQPjC8g&usqp=CAE&s" group-title="Variedades",UMISS TV
 https://video01.soultv.com.br/umiss/umiss/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jdd5Jsa.png" group-title="Variedades",PIX TV
-https://cdn-5.nxplay.com.br/PIX_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/QTAL_channel_logo_REDUZIDO_ndWFcTU.png" group-title="Variedades",QTAL? Channel
 https://video03.logicahost.com.br/qtalchannel01/qtalchannel01/playlist.m3u8
