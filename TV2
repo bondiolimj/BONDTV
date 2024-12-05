@@ -610,6 +610,21 @@ https://59f1cbe63db89.streamlock.net:1443/danielteste/_definst_/danielteste/play
 https://ythls-v3.onrender.com/channel/UCn_5SHr4B5fTjOyrI5igyOg.m3u8
 
 
+Youtube IPTV Channels
+It creates a permanent link for a Youtube live channel or video, which adds it to any IPTV client.
 
+For a Youtube Channel
+It picks up the live feed of a YouTube channel. It works well when a YouTube channel has a single live feed or goes live frequently. It does not work when a channel has multiple live feeds simultaneously. Please use the video link for this case.
+# format of the link
+https://ythls-v3.onrender.com/channel/$youtube_channel_id.m3u8
+# example
+https://ythls-v3.onrender.com/channel/UCt4t-jeY85JegMlZ-E5UWtA.m3u8
+
+For a Youtube Video
+It picks up the live feed of a YouTube video. The video should be live for it to work.
+# format of the link
+https://ythls-v3.onrender.com/video/$youtube_video_id.m3u8
+# example
+https://ythls-v3.onrender.com/video/Nq2wYlWFucg.m3u8
 
 
