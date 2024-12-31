@@ -355,7 +355,7 @@ http://cdn.sasdscg.com:80/live/venk0vwp7x01/gold81500/208252.ts
 http://cdn.sasdscg.com:80/live/venk0vwp7x01/gold81500/101984.ts
 #EXTINF:-1 tvg-id="curta.br" tvg-name="CURTA! FHD" tvg-logo="https://acstatic.co/logos/canais/curta.png" group-title="Filmes & Séries",CURTA! FHD
 http://cdn.sasdscg.com:80/live/venk0vwp7x01/gold81500/101987.ts
-#EXTINF:-1 tvg-id="Dark Matter" tvg-name="" tvg-logo="https://imgur.com/9lqxeLR.png" group-title="Filmes",Dark Matter
+#EXTINF:-1 tvg-id="Dark Matter" tvg-name="" tvg-logo="https://imgur.com/9lqxeLR.png" group-title="Filmes & Séries",Dark Matter
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_darkmatter_002.m3u8
 #EXTINF:-1 tvg-id="film.arts.br" tvg-name="FILM & ARTS FHD" tvg-logo="http://www.fontedoscanais.com/logos/canais/filmarts.png" group-title="Filmes & Séries",FILM & ARTS FHD
 http://cdn.sasdscg.com:80/live/venk0vwp7x01/gold81500/101990.ts
