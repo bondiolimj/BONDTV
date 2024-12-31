@@ -24,7 +24,7 @@ http://cdn.sasdscg.com:80/live/venk0vwp7x01/gold81500/102399.ts
 http://cdn.sasdscg.com:80/live/venk0vwp7x01/gold81500/102400.ts
 #EXTINF:-1 tvg-id="tv.alterosa.br" tvg-name="SBT TV ALTEROSA FHD" tvg-logo="https://acstatic.co/logos/canais/sbt.png" group-title="Abertos",SBT TV ALTEROSA FHD
 http://cdn.sasdscg.com:80/live/venk0vwp7x01/gold81500/91856.ts
-#EXTINF:-1 tvg-id="tv.aratu.br" tvg-name="SBT TV ARATU -BAHIA FHD" tvg-logo="https://acstatic.co/logos/canais/sbt.png" group-title="SBT",SBT TV ARATU -BAHIA FHD
+#EXTINF:-1 tvg-id="tv.aratu.br" tvg-name="SBT TV ARATU -BAHIA FHD" tvg-logo="https://acstatic.co/logos/canais/sbt.png" group-title="Abertos",SBT TV ARATU -BAHIA FHD
 http://cdn.sasdscg.com:80/live/venk0vwp7x01/gold81500/91868.ts
 #EXTINF:-1 tvg-id="tv.uniao.br" tvg-name="TV UNIAO" tvg-logo="https://acstatic.co/logos/canais/globo.png" group-title="Abertos",TV UNIAO
 http://cdn.sasdscg.com:80/live/venk0vwp7x01/gold81500/96751.ts
