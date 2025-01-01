@@ -60,7 +60,7 @@ https://tv01.zas.media:1936/centraltvweb/centraltvweb/playlist.m3u8
 https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8
 #EXTINF:-1 tvg-id="cnn.brasil.br" tvg-name="CNN Brasil" tvg-logo="https://acstatic.co/logos/canais/cnn.png" group-title="TVRO: Notícias & Esportes",CNN Brasil
 http://cdn.sasdscg.com:80/live/venk0vwp7x01/gold81500/97948.ts
-#EXTINF:-1 tvg-id="cnn.brasil.br" tvg-name="CNN Brasil Money" tvg-logo="https://acstatic.co/logos/canais/cnn.png" group-title="TVRO: Notícias & Esportes",CNN Brasil Money
+#EXTINF:-1 tvg-id="cnn.brasil.br" tvg-name="CNN Brasil Money" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/cb/CNN_Brasil_Money.jpg" group-title="TVRO: Notícias & Esportes",CNN Brasil Money
 http://cdn.sasdscg.com:80/live/venk0vwp7x01/gold81500/208341.ts
 #EXTINF:-1 tvg-id="3c2effed104e917c89f95c827816efe0" tvg-name="CNT HD" tvg-logo="" group-title="",CNT
 http://zea2.top:80/Tourobox1-50vVlq5nkc/dpMB637Lg8/235211.ts
@@ -426,7 +426,7 @@ http://video01.soultv.com.br/xrhealth/xrhealth/playlist.m3u8
 
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E" tvg-logo="https://acstatic.co/logos/canais/a%26e.png" group-title="Filmes & Séries",A&E
 http://cdn.sasdscg.com:80/live/venk0vwp7x01/gold81500/208146.ts
-#EXTINF:-1 tvg-id="" tvg-name="Adult Swim" tvg-logo="http://gerenciadorr.xyz:80/images/NjR9vhzGk-9GfDF7-QIDj3DEUHAZgOCq3sMs6IcukU6Po_sarb-PeoLQyYt4SEACx7vjzyEk5lHQozN7FsblWA.png" group-title="Filmes & Séries",Adult Swim
+#EXTINF:-1 tvg-id="" tvg-name="Adult Swim" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/375px-Adult_Swim_2003_logo.svg.png" group-title="Filmes & Séries",Adult Swim
 http://gerenciadorr.xyz:80/421730438/709501434/441200
 #EXTINF:-1 tvg-id="amc.br" tvg-name="AMC" tvg-logo="https://acstatic.co/logos/canais/amc.png" group-title="Filmes & Séries",AMC
 http://cdn.sasdscg.com:80/live/venk0vwp7x01/gold81500/208150.ts
@@ -452,7 +452,7 @@ http://cdn.sasdscg.com:80/live/venk0vwp7x01/gold81500/101977.ts
 http://cdn.sasdscg.com:80/live/venk0vwp7x01/gold81500/94576.ts
 #EXTINF:-1 tvg-id="CineBrasilTV.br" tvg-name="Cine Brasil TV" tvg-logo="https://cdn.telaviva.com.br/wp-content/uploads/2021/07/cinebrasil-tv.png" group-title="Filmes & Séries",Cine Brasil TV
 https://aovivo.doozytv.com.br/31025556/10160499/chunks.m3u8?token=gUP6mdPUDi7gY1GoKCAivlNqsSjN1aVIjpBlwfFt5x3VitYgqqfjXqG-jAQlmUGVxwuvSRTxiqubkAT00WuoMftaq5XT8niA-SAAZpo-tQOny_95W423Ia7R_8wlJ_K1&sjwt=eyJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3MzM0NDYzMDgzMTcsImV4cCI6MTczMzQ0NjMxMDExNywibmJmIjoxNzMzNDQ2MzA4MzE3LCJ1cm4iOiJ1cm46ZXhhbXBsZTpjbGFpbSB0cnVlIn0.rcwLRIzXYaawWjUSO_mLBGdnkx2HpjYVSQfyCw1MKDo
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinecanal" tvg-logo="http://imagecdn.sh:80/images/01375ac11a3195fb2fdef0f451d0943e.png" group-title="Filmes & Séries",Cinecanal
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinecanal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/300px-CinecanalLA.png" group-title="Filmes & Séries",Cinecanal
 http://cdn.sasdscg.com:80/live/venk0vwp7x01/gold81500/208252.ts
 #EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax" tvg-logo="https://acstatic.co/logos/canais/cinemax.png" group-title="Filmes & Séries",Cinemax
 http://cdn.sasdscg.com:80/live/venk0vwp7x01/gold81500/101984.ts
@@ -476,7 +476,7 @@ http://cdn.sasdscg.com:80/live/venk0vwp7x01/gold81500/92138.ts
 http://cdn.sasdscg.com:80/live/venk0vwp7x01/gold81500/94206.ts
 
 
-#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="Notícias & Esportes",ESPN
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/300px-ESPN_wordmark.svg.png" group-title="Notícias & Esportes",ESPN
 http://tv.fazoeli.co.za/m3u8/espn.m3u8
 #EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="Notícias & Esportes",ESPN 2
 http://tv.fazoeli.co.za/m3u8/espn2.m3u8
@@ -554,7 +554,7 @@ http://cdn.sasdscg.com:80/live/venk0vwp7x01/gold81500/208427.ts
 http://cdn.sasdscg.com:80/live/venk0vwp7x01/gold81500/208179.ts
 #EXTINF:-1 tvg-id="mtv.live.br" tvg-name="MTV Live" tvg-logo="https://acstatic.co/logos/canais/mtv.png" group-title="Música",MTV Live
 http://cdn.sasdscg.com:80/live/venk0vwp7x01/gold81500/208180.ts
-#EXTINF:-1 tvg-id="mtv.live.br" tvg-name="MTV 00s" tvg-logo="https://acstatic.co/logos/canais/mtv.png" group-title="Música",MTV 00s
+#EXTINF:-1 tvg-id="mtv.00s.br" tvg-name="MTV 00s" tvg-logo="https://acstatic.co/logos/canais/mtv.png" group-title="Música",MTV 00s
 http://cdn.sasdscg.com:80/live/venk0vwp7x01/gold81500/208417.ts
 
 
@@ -644,13 +644,13 @@ http://cdn.sasdscg.com:80/live/venk0vwp7x01/gold81500/99968.ts
 
 #FUTEBOL
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nosso Futebol 1" tvg-logo="https://cassiozirpoli.com.br/wp-content/uploads/2023/01/dazn_canal_nosso_futebol_2023_1.jpg" group-title="Futebol",Nosso Futebol 1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nosso Futebol 1" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/e/eb/Logotipo_nosso_futebol.png/150px-Logotipo_nosso_futebol.png" group-title="Futebol",Nosso Futebol 1
 http://cdn.sasdscg.com:80/live/venk0vwp7x01/gold81500/81996.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nosso Futebol 2" tvg-logo="https://cassiozirpoli.com.br/wp-content/uploads/2023/01/dazn_canal_nosso_futebol_2023_1.jpg" group-title="Futebol",Nosso Futebol 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nosso Futebol 2" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/e/eb/Logotipo_nosso_futebol.png/150px-Logotipo_nosso_futebol.png" group-title="Futebol",Nosso Futebol 2
 http://cdn.sasdscg.com:80/live/venk0vwp7x01/gold81500/81997.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nosso Futebol 3" tvg-logo="https://cassiozirpoli.com.br/wp-content/uploads/2023/01/dazn_canal_nosso_futebol_2023_1.jpg" group-title="Futebol",Nosso Futebol 3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nosso Futebol 3" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/e/eb/Logotipo_nosso_futebol.png/150px-Logotipo_nosso_futebol.png" group-title="Futebol",Nosso Futebol 3
 http://cdn.sasdscg.com:80/live/venk0vwp7x01/gold81500/81998.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nosso Futebol 4" tvg-logo="https://cassiozirpoli.com.br/wp-content/uploads/2023/01/dazn_canal_nosso_futebol_2023_1.jpg" group-title="Futebol",Nosso Futebol 4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nosso Futebol 4" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/e/eb/Logotipo_nosso_futebol.png/150px-Logotipo_nosso_futebol.png" group-title="Futebol",Nosso Futebol 4
 http://cdn.sasdscg.com:80/live/venk0vwp7x01/gold81500/81995.ts
 
 
@@ -666,27 +666,27 @@ http://cdn.sasdscg.com:80/live/venk0vwp7x01/gold81500/82051.ts
 http://cdn.sasdscg.com:80/live/venk0vwp7x01/gold81500/208465.ts
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Paramount+ 1" tvg-logo="http://imagecdn.sh:80/images/a2297e25c35601bed705a676d70e41df.png" group-title="Futebol",Paramount+ 1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Paramount+ 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Paramount_Plus.svg/375px-Paramount_Plus.svg.png" group-title="Futebol",Paramount+ 1
 http://cdn.sasdscg.com:80/live/venk0vwp7x01/gold81500/82027.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Paramount+ 2" tvg-logo="http://imagecdn.sh:80/images/a2297e25c35601bed705a676d70e41df.png" group-title="Futebol",Paramount+ 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Paramount+ 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Paramount_Plus.svg/375px-Paramount_Plus.svg.png" group-title="Futebol",Paramount+ 2
 http://cdn.sasdscg.com:80/live/venk0vwp7x01/gold81500/82022.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Paramount+ 3" tvg-logo="http://imagecdn.sh:80/images/a2297e25c35601bed705a676d70e41df.png" group-title="Futebol",Paramount+ 3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Paramount+ 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Paramount_Plus.svg/375px-Paramount_Plus.svg.png" group-title="Futebol",Paramount+ 3
 http://cdn.sasdscg.com:80/live/venk0vwp7x01/gold81500/82026.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Paramount+ 4" tvg-logo="http://imagecdn.sh:80/images/a2297e25c35601bed705a676d70e41df.png" group-title="Futebol",Paramount+ 4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Paramount+ 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Paramount_Plus.svg/375px-Paramount_Plus.svg.png" group-title="Futebol",Paramount+ 4
 http://cdn.sasdscg.com:80/live/venk0vwp7x01/gold81500/81994.ts
 
 
-#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="Premiere Clubes" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Futebol",Premiere Clubes
+#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="Premiere Clubes" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/375px-Logo_Premiere_FC_2018.png" group-title="Futebol",Premiere Clubes
 http://cdn.sasdscg.com:80/live/venk0vwp7x01/gold81500/93520.ts
-#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="Premiere 2" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Futebol",Premiere 2
+#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="Premiere 2" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/375px-Logo_Premiere_FC_2018.png" group-title="Futebol",Premiere 2
 http://cdn.sasdscg.com:80/live/venk0vwp7x01/gold81500/93522.ts
-#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="Premiere 3" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Futebol",Premiere 3
+#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="Premiere 3" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/375px-Logo_Premiere_FC_2018.png" group-title="Futebol",Premiere 3
 http://cdn.sasdscg.com:80/live/venk0vwp7x01/gold81500/93524.ts
-#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="Premiere 4" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Futebol",Premiere 4
+#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="Premiere 4" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/375px-Logo_Premiere_FC_2018.png" group-title="Futebol",Premiere 4
 http://cdn.sasdscg.com:80/live/venk0vwp7x01/gold81500/93526.ts
-#EXTINF:-1 tvg-id="premiere.5.br" tvg-name="Premiere 5" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Futebol",Premiere 5
+#EXTINF:-1 tvg-id="premiere.5.br" tvg-name="Premiere 5" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/375px-Logo_Premiere_FC_2018.png" group-title="Futebol",Premiere 5
 http://cdn.sasdscg.com:80/live/venk0vwp7x01/gold81500/93528.ts
-#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="Premiere 6" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Futebol",Premiere 6
+#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="Premiere 6" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/375px-Logo_Premiere_FC_2018.png" group-title="Futebol",Premiere 6
 http://cdn.sasdscg.com:80/live/venk0vwp7x01/gold81500/93532.ts
-#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="Premiere 7" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Futebol",Premiere 7
+#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="Premiere 7" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/375px-Logo_Premiere_FC_2018.png" group-title="Futebol",Premiere 7
 http://cdn.sasdscg.com:80/live/venk0vwp7x01/gold81500/211453.ts
