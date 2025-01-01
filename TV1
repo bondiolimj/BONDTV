@@ -50,7 +50,7 @@ https://canalgov-stream.ebc.com.br/index.m3u8
 http://cdn.sasdscg.com:80/live/venk0vwp7x01/gold81500/208213.ts
 #EXTINF:-1 tvg-id="canalsaude.br" tvg-name="Canal Saúde" tvg-logo="https://www.canalsaude.fiocruz.br/tools/images/logo30anos/30-vers%C3%A3o-horizontal-web.png" group-title="TVRO: Educativa",Canal Saúde
 https://cdn.eduplay.rnp.br/route/CFwapWdsWCYQ/index.m3u8?s=aHR0cHM6Ly9tZWRpYS5lZHVwbGF5LnJucC5ici9tZWRpYS9DRndhcFdkc1dDWVEvaW5kZXgubTN1OD94PTEmbT0tOV9icElwMl9ySFA4V0dnUERBRFRn&x=1&p=10&m=Ax0DMnlL_LQ2dCZxB-vaTQ
-#EXTINF:-1 tvg-id="" tvg-name="Canal UOL" tvg-logo="https://imgur.com/dC2p8J1.png" group-title="TVRO: Variedades",Canal UOL
+#EXTINF:-1 tvg-id="" tvg-name="Canal UOL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiOgvsnserfgrOuIVo2xZJhpCKEdam5OYadg&s" group-title="TVRO: Variedades",Canal UOL
 https://d19fe0yjxkxylf.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-id="cancao.nova.br" tvg-name="TV Canção Nova" tvg-logo="https://loopstatic.net/cancaonova.png" group-title="TVRO: Religioso",TV Canção Nova
 http://cdn.sasdscg.com:80/live/venk0vwp7x01/gold81500/99345.ts
@@ -62,7 +62,7 @@ https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.
 http://cdn.sasdscg.com:80/live/venk0vwp7x01/gold81500/97948.ts
 #EXTINF:-1 tvg-id="cnn.brasil.br" tvg-name="CNN Brasil Money" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/cb/CNN_Brasil_Money.jpg" group-title="TVRO: Notícias & Esportes",CNN Brasil Money
 http://cdn.sasdscg.com:80/live/venk0vwp7x01/gold81500/208341.ts
-#EXTINF:-1 tvg-id="3c2effed104e917c89f95c827816efe0" tvg-name="CNT HD" tvg-logo="" group-title="",CNT
+#EXTINF:-1 tvg-id="3c2effed104e917c89f95c827816efe0" tvg-name="CNT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/5/5d/Logo_CNT.png/300px-Logo_CNT.png" group-title="",CNT
 http://zea2.top:80/Tourobox1-50vVlq5nkc/dpMB637Lg8/235211.ts
 #EXTINF:-1 tvg-id="" tvg-name="ComBrasil" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c13e6b573ac2c21dd7268e3a65f95b34.webp" group-title="TVRO: Variedades",ComBrasil
 https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
@@ -438,7 +438,7 @@ http://cdn.sasdscg.com:80/live/venk0vwp7x01/gold81500/99935.ts
 http://cdn.sasdscg.com:80/live/venk0vwp7x01/gold81500/101974.ts
 
 
-#EXTINF:-1 tvg-id="band.news.br" tvg-name="Band News" tvg-logo="http://imagecdn.sh:80/images/abb329697106ebb6f051ab5ab2d39dfd.png" group-title="Notícias & Esportes",Band News
+#EXTINF:-1 tvg-id="band.news.br" tvg-name="Band News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/BandNewsTV2024.svg/375px-BandNewsTV2024.svg.png" group-title="Notícias & Esportes",Band News
 http://cdn.sasdscg.com:80/live/venk0vwp7x01/gold81500/97945.ts
 #EXTINF:-1 tvg-id="bandsports.br" tvg-name="Band Sports" tvg-logo="https://acstatic.co/logos/canais/bandsports.png" group-title="Notícias & Esportes",Band Sports
 http://cdn.sasdscg.com:80/live/venk0vwp7x01/gold81500/101014.ts
@@ -488,7 +488,7 @@ http://tv.fazoeli.co.za/m3u8/espn4.m3u8
 http://tv.fazoeli.co.za/m3u8/espn5.m3u8
 #EXTINF:-1 tvg-id="espn6.br" tvg-name="ESPN 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/1280px-ESPN_6_logo.svg.png" group-title="Notícias & Esportes",ESPN 6
 http://tv.fazoeli.co.za/m3u8/espn6.m3u8
-#EXTINF:-1 tvg-id="Eurochannel.br" tvg-name="Eurochannel" tvg-logo="http://www.rochagalaxia.live/logos/eurochanel250.png" group-title="Filmes & Séries",Eurochannel
+#EXTINF:-1 tvg-id="Eurochannel.br" tvg-name="Eurochannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/EURO_LOGO_FINALE.png/300px-EURO_LOGO_FINALE.png" group-title="Filmes & Séries",Eurochannel
 http://zea2.top/live/Tourobox1-50vVlq5nkc/dpMB637Lg8/235220.ts
 
 
@@ -528,7 +528,7 @@ http://cdn.sasdscg.com:80/live/venk0vwp7x01/gold81500/92434.ts
 http://cdn.sasdscg.com:80/live/venk0vwp7x01/gold81500/92435.ts
 
 
-#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV" tvg-logo="https://acstatic.co/logos/canais/discoverycivilization.png" group-title="Variedades",HGTV
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/375px-HGTV_US_Logo_2015.svg.png" group-title="Variedades",HGTV
 http://cdn.sasdscg.com:80/live/venk0vwp7x01/gold81500/208170.ts
 #EXTINF:-1 tvg-id="history.2.br" tvg-name="H2" tvg-logo="https://acstatic.co/logos/canais/h2.png" group-title="Variedades",H2
 http://cdn.sasdscg.com:80/live/venk0vwp7x01/gold81500/94212.ts
