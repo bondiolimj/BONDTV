@@ -202,7 +202,7 @@ http://cdn.sasdscg.com:80/live/venk0vwp7x01/gold81500/102802.ts
 https://tbc.zoeweb.tv/tbc/tbc/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TBO (Rede Brasil MT)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/af/Logotipo_da_TV_Brasil_Oeste.png" group-title="TVRO: Regional",TBO (Rede Brasil MT)
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8?ManoTV
-#EXTINF:-1 tvg-id="terra.viva.br" tvg-name="Terraviva" tvg-logo="https://loopstatic.net/viva.png" group-title="TVRO: Agro",Terraviva
+#EXTINF:-1 tvg-id="terra.viva.br" tvg-name="Terraviva" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Terra_Viva_logo.svg/300px-Terra_Viva_logo.svg.png" group-title="TVRO: Agro",Terraviva
 http://cdn.sasdscg.com:80/live/venk0vwp7x01/gold81500/208189.ts
 #EXTINF:-1 tvg-id="" tvg-name="TV Thathi (SP)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f8/Logotipo_da_TV_Thathi.png" group-title="TVRO: Variedades",TV Thathi (SP)
 https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/playlist.m3u8
